@@ -1,0 +1,801 @@
+ids,sentiment,sarcasm,vulgar,abuse,target,label,caption
+image_telugu_0046.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"happy birthday to person, the actor who is the best actor in the world happy birthday to person, the actor who is the best actor in"
+image_telugu_0047.png,neutral,yes,not vulgar,non-abusive,gender,0,a movie scene with a man and woman talking to each other people
+image_telugu_0928.png,negative,yes,not vulgar,non-abusive,gender,0,a funny joke on the life of an old man
+image_telugu_0850.png,positive,no,not vulgar,non-abusive,individual,0,person and person in the comedy show
+image_telugu_0466.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person and person in the movie
+image_telugu_0763.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a bunch of people in a room with a sign that says, ' pv house cleaning day '"
+image_telugu_0351.png,positive,yes,not vulgar,non-abusive,none,0,a man with a smile on his face
+image_telugu_0129.png,neutral,yes,not vulgar,non-abusive,none,0,a man talking to another man in an office
+image_telugu_0554.png,neutral,yes,not vulgar,non-abusive,none,0,a man is sitting on a couch with a quote on it
+image_telugu_0524.png,neutral,yes,vulgar,non-abusive,individual,0,a girl in a white top with a quote on it
+image_telugu_0301.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a col of a man cooking food in a kitchen
+image_telugu_0004.png,negative,yes,vulgar,non-abusive,social sub-groups,0,a funny scene from the movie
+image_telugu_0810.png,positive,no,not vulgar,non-abusive,others,0,the kal movie dialogues dialoguess
+image_telugu_0282.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man talking on a phone while a woman looks on
+image_telugu_0123.png,neutral,yes,not vulgar,non-abusive,individual,0,"telugu quotes in telugu telugu quotes, telugu quotes, telugu quotes, telugu quotes, telugu quotes, telugu quotes"
+image_telugu_0619.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a picture of a man and woman with the capt in the middle
+image_telugu_0750.png,negative,yes,not vulgar,non-abusive,political,0,a tweet of the police officer who was attacked by a police officer
+image_telugu_0944.png,negative,yes,not vulgar,non-abusive,national origin,0,a man in a suit sitting at a desk with a flag behind him
+image_telugu_0871.png,positive,no,not vulgar,non-abusive,none,0,person and person in a still scene in the movie
+image_telugu_0281.png,negative,yes,vulgar,non-abusive,none,0,a man is fixing a computer
+image_telugu_0942.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a man is laughing and talking to another man
+image_telugu_0345.png,neutral,yes,not vulgar,non-abusive,individual,0,a man in a blue shirt and red shirt is sitting in front of a television screen
+image_telugu_0027.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person and person in the movie
+image_telugu_0023.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,malayalam dialoguess
+image_telugu_0461.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,"a dog with a man in the background and a capt that reads, ' i am kapaather"
+image_telugu_0585.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a bus with a man in the back and a woman in the back
+image_telugu_0914.png,positive,no,not vulgar,non-abusive,individual,0,actor vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0522.png,neutral,yes,vulgar,non-abusive,none,0,a man with a beard and a woman with a beard and a man with a beard and a woman with
+image_telugu_0981.png,positive,no,not vulgar,non-abusive,others,0,telugu dialoguess in telugu movies
+image_telugu_0375.png,neutral,yes,vulgar,abusive,individual,1,a dog with a cell phone in its mouth
+image_telugu_0139.png,positive,no,not vulgar,non-abusive,religion,0,"person, person, person, person, person, person, person, person, person, person, the godfather, person"
+image_telugu_0434.png,positive,yes,not vulgar,non-abusive,individual,0,the tamil dialogues of the day
+image_telugu_0377.png,neutral,yes,vulgar,abusive,social sub-groups,1,a group of men in a field with the capt of a man in a black shirt
+image_telugu_0841.png,negative,no,not vulgar,non-abusive,others,0,a woman who was raped in a movie
+image_telugu_0200.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny quotes in telugu telugu telugu quotes
+image_telugu_0159.png,neutral,yes,not vulgar,non-abusive,none,0,telugu quotes on life
+image_telugu_0543.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,malayalam dialoguess
+image_telugu_0545.png,neutral,yes,not vulgar,non-abusive,none,0,cute love quotes in telugu telugu telugu telugu telugu telugu telugu telugu telugu telugu telugu telugu telugu telugu telugu telugu telugu
+image_telugu_0007.png,negative,no,not vulgar,non-abusive,social sub-groups,0,a man drinking beer from a bottle with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+image_telugu_0327.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a man with a red shirt and a black shirt
+image_telugu_0921.png,positive,yes,vulgar,abusive,others,1,a man in glasses talking to a woman
+image_telugu_0685.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0103.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man walking with cows in the street
+image_telugu_0150.png,neutral,yes,not vulgar,non-abusive,none,0,a baby is sitting on a blanket with the words ` ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+image_telugu_0874.png,neutral,yes,not vulgar,non-abusive,others,0,a woman is surrounded by glass shards
+image_telugu_0245.png,positive,no,not vulgar,non-abusive,individual,0,vijay vijay and vijay vijay on twitter
+image_telugu_0795.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a woman in uniform talking to a man in uniform
+image_telugu_0638.png,neutral,yes,not vulgar,non-abusive,none,0,a man is writing on a whiteboard with a blackboard
+image_telugu_0664.png,neutral,yes,not vulgar,non-abusive,none,0,the face of a man with a black circle on his forehead
+image_telugu_0746.png,negative,yes,not vulgar,non-abusive,political,0,a man in a white shirt is pointing at a woman in a red shirt
+image_telugu_0726.png,negative,yes,not vulgar,non-abusive,political,0,a video of the actor being interviewed by the media
+image_telugu_0402.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man and woman are talking in a room
+image_telugu_0307.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a text message that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0388.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,tamil dialoguess with images
+image_telugu_0714.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0044.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny dialoguess
+image_telugu_0621.png,neutral,yes,not vulgar,non-abusive,none,0,a dog sitting on a chair with a fire in its mouth
+image_telugu_0730.png,neutral,yes,not vulgar,non-abusive,political,0,bjp party cartoon video
+image_telugu_0623.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a twitter account with a photo of a man and woman
+image_telugu_0435.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a man talking on a cell phone with the capt in the middle
+image_telugu_0158.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a dialogues of love in malayalam
+image_telugu_0328.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a funny conversation between between between between, funny, movie, movie, popcorn, popcorn, popcorns, popcorns, popcorns"
+image_telugu_0041.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,trtview telugu telugu movie review
+image_telugu_0907.png,positive,no,not vulgar,non-abusive,social sub-groups,0,actor vijay reddy about his upcoming movie
+image_telugu_0735.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a white shirt is talking on a cell
+image_telugu_0114.png,neutral,yes,not vulgar,non-abusive,individual,0,cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon
+image_telugu_0227.png,neutral,yes,not vulgar,non-abusive,individual,0,telugu funny jokes for kids
+image_telugu_0193.png,neutral,yes,not vulgar,non-abusive,individual,0,facebook meme - screenshote - screenshote - screenshote - screenshote - screenshote - screenshote - screenshot
+image_telugu_0264.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,"two dogs wearing t - shirts with the capt that says, ' i ' m '"
+image_telugu_0280.png,neutral,yes,not vulgar,non-abusive,individual,0,person and person ' s family gets a new look
+image_telugu_0480.png,neutral,yes,not vulgar,non-abusive,none,0,a penguin and a penguin in the middle of a picture
+image_telugu_0847.png,positive,no,not vulgar,non-abusive,individual,0,a man and woman sitting on a bench in front of a tree
+image_telugu_0737.png,neutral,yes,not vulgar,non-abusive,others,0,a man with a beard and mustache in a movie
+image_telugu_0146.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a picture of a man with a tattoo on his arm
+image_telugu_0061.png,neutral,yes,not vulgar,non-abusive,none,0,a man in a blue shirt is lying down on the floor with his head down and his hands clasped
+image_telugu_0412.png,neutral,yes,not vulgar,non-abusive,political,0,a woman in a white shirt and a man in a black shirt are smiling and talking to each other women
+image_telugu_0128.png,negative,no,vulgar,non-abusive,gender,0,a girl with a funny face and a funny expression
+image_telugu_0910.png,positive,yes,not vulgar,non-abusive,gender,0,a man in a cap is talking into a microphone
+image_telugu_0964.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a man in a hat and a man in a hat with a hat on his head, and a man"
+image_telugu_0892.png,positive,no,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0877.png,negative,no,not vulgar,non-abusive,none,0,vijay vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0934.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a young girl is interviewed in a news
+image_telugu_0444.png,positive,yes,not vulgar,non-abusive,gender,0,a dog sitting at a table with a computer
+image_telugu_0977.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny video of a man singing in a telugu song
+image_telugu_0271.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person and person in the movie
+image_telugu_0710.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a bunch of memes and a bunch of memes
+image_telugu_0858.png,positive,no,not vulgar,non-abusive,social sub-groups,0,telugu movie dialoguess
+image_telugu_0485.png,neutral,yes,not vulgar,non-abusive,individual,0,person in the cartoon movie
+image_telugu_0117.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0985.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0470.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a screenshot of person and person in a conversation
+image_telugu_0948.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,malayalam dialoguess
+image_telugu_0018.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a white shirt and a brown shirt is talking to a woman in a white shirt
+image_telugu_0550.png,neutral,yes,not vulgar,non-abusive,none,0,"a man in a hoodie with the words, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0713.png,neutral,yes,not vulgar,non-abusive,political,0,vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0824.png,positive,no,not vulgar,non-abusive,none,0,malayalam comedy dialoguess
+image_telugu_0223.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,funny memesets funny memesets funny memesets funny memesetsets funny memesetsetsetsetsetsets
+image_telugu_0234.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,"a dog with glasses on and a capt that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0320.png,neutral,yes,not vulgar,non-abusive,none,0,kareena and ran kapoor at the event
+image_telugu_0452.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a doge with a red hat and headphones on, and a capt that reads ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0403.png,negative,no,not vulgar,non-abusive,social sub-groups,0,a bus is seen in the air as it is being towed by a truck
+image_telugu_0978.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0464.png,positive,no,not vulgar,non-abusive,social sub-groups,0,a picture of a man playing chess with a woman
+image_telugu_0224.png,neutral,yes,not vulgar,non-abusive,individual,0,a man with a sign that says ' aadha here '
+image_telugu_0243.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a couple of people sitting at a table with a laptop
+image_telugu_0426.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a dog in a red hoodie is cooking food
+image_telugu_0815.png,negative,yes,not vulgar,non-abusive,individual,0,a man talking to another man in a room
+image_telugu_0754.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in blue shirt sitting down and talking to someone
+image_telugu_0049.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a movie scene with a man in a suit and a woman in a dress
+image_telugu_0653.png,neutral,yes,not vulgar,abusive,individual,1,anil reddy speech at the event
+image_telugu_0946.png,positive,yes,not vulgar,non-abusive,none,0,a man crying in a telugu movie
+image_telugu_0017.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess
+image_telugu_0350.png,negative,yes,vulgar,abusive,individual,1,"a dog with headphones on and a capt that says, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0861.png,positive,no,not vulgar,non-abusive,none,0,person in telugu movie
+image_telugu_0473.png,positive,no,not vulgar,non-abusive,individual,0,person in a movie
+image_telugu_0057.png,neutral,yes,not vulgar,non-abusive,none,0,kalvi kalvi kalvi kalvi kalvi kalvi kalvi kalvi kalvi ka
+image_telugu_0102.png,positive,no,not vulgar,non-abusive,none,0,a man smiling with a cow in the background
+image_telugu_0819.png,positive,no,not vulgar,non-abusive,individual,0,a col of a man playing cricket with a bat
+image_telugu_0140.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0399.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a dog in a red hoodie is sitting on a couch
+image_telugu_0121.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,anil reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0144.png,neutral,yes,not vulgar,non-abusive,none,0,funny jokes on life in telugu
+image_telugu_0648.png,neutral,yes,not vulgar,non-abusive,individual,0,a man speaking into a microphone with a woman in the background
+image_telugu_0519.png,positive,no,not vulgar,non-abusive,national origin,0,a man in a suit is standing next to a stuffed animal
+image_telugu_0560.png,negative,no,vulgar,non-abusive,none,0,a woman in a red sari sari sari sari sari sari sari sari sari sari sari sar
+image_telugu_0814.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a funny picture of a cricket player with a capt
+image_telugu_0478.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man with glasses and a beard is looking at another man with glasses
+image_telugu_0565.png,neutral,yes,not vulgar,non-abusive,individual,0,telugu love quotes in telugu telugu quotes
+image_telugu_0663.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,tamil funny dialoguess
+image_telugu_0083.png,negative,yes,not vulgar,abusive,individual,1,telugu dialoguess in telugu movies
+image_telugu_0620.png,neutral,yes,not vulgar,non-abusive,national origin,0,anil reddy and vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0536.png,neutral,yes,vulgar,non-abusive,none,0,a dialogues of baa baa baa baa baa baa baa baa baa baa baa baa ba
+image_telugu_0366.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person in the movie
+image_telugu_0624.png,neutral,yes,not vulgar,non-abusive,none,0,a picture of a man with a heart shaped balloon
+image_telugu_0019.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,person in a funny scene in the movie
+image_telugu_0371.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,"a dog with glasses on and a capt that says, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0020.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a pink shirt sitting at a desk with a blackboard behind him
+image_telugu_0186.png,neutral,yes,not vulgar,non-abusive,individual,0,person is the best person in bollywood movies
+image_telugu_0561.png,negative,no,vulgar,non-abusive,none,0,a girl with a big nose and a big mouth
+image_telugu_0580.png,neutral,yes,vulgar,non-abusive,none,0,the vampire diaries - episode 2 - episode 2 - episode 2 - episode 3 - episode 3 - episode 3
+image_telugu_0178.png,negative,yes,not vulgar,non-abusive,none,0,person and person in the movie
+image_telugu_0106.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny jokes
+image_telugu_0770.png,positive,yes,not vulgar,non-abusive,none,0,a man in a white shirt is talking on a cell
+image_telugu_0500.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0231.png,positive,no,not vulgar,non-abusive,social sub-groups,0,a man eating a carrot with a red carrot in his mouth
+image_telugu_0890.png,negative,yes,not vulgar,non-abusive,others,0,a funny video of vijay vijay and vijay
+image_telugu_0564.png,neutral,yes,vulgar,non-abusive,none,0,"malayalam love quotes, love quotes, love quotes, person, person, person, person, person, person"
+image_telugu_0441.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a woman is dancing with a man in a room
+image_telugu_0589.png,neutral,yes,not vulgar,non-abusive,national origin,0,"india vs pakistan, india vs pakistan, india vs pakistan, india vs pakistan, india vs pakistan, india vs pakistan, india vs pakistan, india vs"
+image_telugu_0520.png,negative,no,vulgar,non-abusive,none,0,a video of a man in a crowd
+image_telugu_0752.png,positive,yes,not vulgar,non-abusive,none,0,malayalam dialoguess
+image_telugu_0912.png,positive,no,not vulgar,non-abusive,others,0,vijay vijay in telugu movie
+image_telugu_0869.png,positive,no,not vulgar,non-abusive,individual,0,a woman with long hair and a beard is talking to a man in a video
+image_telugu_0343.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny dialogues of person in telugu movie
+image_telugu_0042.png,neutral,yes,not vulgar,non-abusive,individual,0,telugu dialoguess in telugu movies
+image_telugu_0566.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0263.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a girl in the movie, with a capt that reads, ' no daram exe '"
+image_telugu_0322.png,positive,no,not vulgar,non-abusive,gender,0,person and person in telugu movie
+image_telugu_0180.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"happy new year hindi funny, funny, happy new year, funny quotes, happy new year, happy new year, happy new year, happy"
+image_telugu_0577.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a man with a beard and sunglasses on, and a man with a beard and sunglasses on, and a"
+image_telugu_0501.png,neutral,yes,not vulgar,abusive,social sub-groups,1,a man holding an umbrella and a woman holding an umbrella
+image_telugu_0154.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0294.png,neutral,yes,not vulgar,non-abusive,political,0,a man in a tuk tuk tuk tuk tuk tuk tuk tuk tu
+image_telugu_0176.png,positive,yes,not vulgar,non-abusive,none,0,a funny picture of a man with a beard and a beard
+image_telugu_0078.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,malayalam funny dialoguess
+image_telugu_0357.png,neutral,yes,not vulgar,non-abusive,national origin,0,a screenshot of a man in a purple shirt and a man in a blue shirt with a green hat
+image_telugu_0228.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0110.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a poster for the movie
+image_telugu_0406.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a movie scene with a quote from the movie
+image_telugu_0692.png,neutral,yes,not vulgar,non-abusive,political,0,telugu dialoguess in telugu movies
+image_telugu_0259.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,hindi movie dialogues dialoguess
+image_telugu_0749.png,positive,no,not vulgar,non-abusive,social sub-groups,0,vijay vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0398.png,neutral,yes,not vulgar,abusive,political,1,malayalam dialoguess
+image_telugu_0817.png,positive,no,not vulgar,non-abusive,individual,0,malayalam movie posters
+image_telugu_0947.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0181.png,positive,no,not vulgar,non-abusive,none,0,"the vampire diaries vampire diaries, vampire diaries, vampire diaries, vampire diaries, vampire diaries, vampire diaries, vampire diaries, vampire diaries, vampire"
+image_telugu_0162.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a funny dialogues of person and person
+image_telugu_0628.png,negative,no,vulgar,non-abusive,none,0,malayalam dialoguess in telugu movies
+image_telugu_0880.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,kalvi kalvi in telugu movie
+image_telugu_0187.png,positive,yes,not vulgar,non-abusive,gender,0,a girl eating food with a man in the background
+image_telugu_0569.png,neutral,yes,vulgar,non-abusive,none,0,a couple in a car with the capt of the capt
+image_telugu_0068.png,negative,yes,not vulgar,non-abusive,gender,0,a man crying in front of a car
+image_telugu_0177.png,negative,yes,not vulgar,non-abusive,political,0,a man talking to a man in a bus
+image_telugu_0265.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a doge is standing in front of a large balloon
+image_telugu_0845.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,the accident happened in the car accident in hyderabad
+image_telugu_0457.png,positive,yes,not vulgar,non-abusive,political,0,person and person in the movie
+image_telugu_0615.png,neutral,yes,not vulgar,non-abusive,individual,0,person and person in the comedy show
+image_telugu_0988.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a woman in a white headdre with a smile on her face
+image_telugu_0405.png,neutral,yes,vulgar,non-abusive,none,0,a girl smiling and looking at the camera
+image_telugu_0717.png,neutral,yes,not vulgar,non-abusive,none,0,person in a movie
+image_telugu_0482.png,neutral,yes,not vulgar,non-abusive,individual,0,a funny dialogues of person and person in telugu movie
+image_telugu_0324.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,the many faces of person
+image_telugu_0276.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man sitting in front of a television screen
+image_telugu_0992.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0859.png,negative,no,not vulgar,abusive,individual,1,"person, person, person, person, person, person, person, person, the lord"
+image_telugu_0502.png,neutral,yes,not vulgar,non-abusive,none,0,a woman with a doctor in the background
+image_telugu_0248.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man with glasses and a mustache sitting in a chair
+image_telugu_0222.png,neutral,yes,not vulgar,non-abusive,gender,0,person in a movie
+image_telugu_0273.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a man is eating food in front of a sign
+image_telugu_0896.png,positive,no,not vulgar,non-abusive,others,0,telugu dialoguess in telugu movies
+image_telugu_0418.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a dog in a red hoodie is sitting on a couch and talking to another dog
+image_telugu_0356.png,positive,no,not vulgar,non-abusive,social sub-groups,0,a screen shot of a man in a white shirt and black pants
+image_telugu_0759.png,positive,no,not vulgar,non-abusive,individual,0,sachvi rajan and sachvi rajan in the bigg
+image_telugu_0468.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a man in a hat and uniform is talking to another man
+image_telugu_0704.png,negative,no,not vulgar,non-abusive,political,0,a funny dialogues in telugu movie
+image_telugu_0298.png,negative,yes,vulgar,non-abusive,political,0,a col of a man with a red face and a black face
+image_telugu_0865.png,negative,yes,not vulgar,abusive,individual,1,a man is talking to a woman in a house
+image_telugu_0949.png,negative,yes,not vulgar,non-abusive,none,0,a man in a black shirt is talking to a woman in a black shirt
+image_telugu_0022.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a scene from the movie ' ' ' '
+image_telugu_0407.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a dialogues of love in telugu
+image_telugu_0383.png,neutral,yes,not vulgar,non-abusive,individual,0,a girl talking to a man in a room
+image_telugu_0630.png,neutral,yes,not vulgar,non-abusive,none,0,a man with a dog on his face and a dog in the background
+image_telugu_0257.png,neutral,yes,vulgar,non-abusive,individual,0,tamil dialogues of the day
+image_telugu_0809.png,positive,yes,not vulgar,non-abusive,individual,0,"happy birthday person person, person, person, person, person, person, person, person, person, person"
+image_telugu_0440.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a man in a black shirt and a woman in a blue shirt and a man in a white shirt and
+image_telugu_0825.png,neutral,yes,vulgar,non-abusive,others,0,person in a movie
+image_telugu_0643.png,neutral,yes,not vulgar,non-abusive,political,0,telugu dialoguess in telugu movies
+image_telugu_0778.png,positive,no,not vulgar,non-abusive,social sub-groups,0,mandar comri 4k to release on november 4
+image_telugu_0448.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a group of people in a subway station
+image_telugu_0853.png,positive,no,not vulgar,non-abusive,individual,0,telugu dialoguess in telugu movies
+image_telugu_0077.png,negative,yes,not vulgar,non-abusive,others,0,a bunch of memess with a beard and glasses
+image_telugu_0629.png,neutral,yes,vulgar,abusive,social sub-groups,1,anir interview on tv
+image_telugu_0647.png,neutral,yes,not vulgar,non-abusive,none,0,a dog with a red shirt and a red hat
+image_telugu_0712.png,negative,no,not vulgar,abusive,national origin,1,a man in a green shirt is talking to the media about his team
+image_telugu_0463.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a girl is crying in the hospital
+image_telugu_0904.png,negative,no,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0116.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu telugu movies
+image_telugu_0099.png,neutral,yes,not vulgar,non-abusive,individual,0,a cartoon character with a capt that reads ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `
+image_telugu_0101.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,"a man and woman in a scene with the capt that reads, ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '"
+image_telugu_0112.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a baby crying with a speech bubble
+image_telugu_0722.png,neutral,yes,not vulgar,non-abusive,political,0,telugu dialoguess in telugu movies
+image_telugu_0515.png,neutral,yes,vulgar,non-abusive,none,0,a man with a heart shaped background and text that reads a deng paki
+image_telugu_0556.png,neutral,yes,vulgar,abusive,individual,1,a quote from maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha
+image_telugu_0199.png,neutral,yes,not vulgar,abusive,gender,1,"a cartoon picture of a man and woman in bed with the capt that says, when they are sleeping, when they sleep"
+image_telugu_0026.png,neutral,yes,not vulgar,non-abusive,none,0,"telugu funny quotes, telugu funny quotes, telugu quotes, funny jokes, funny jokes, funny jokes, funny"
+image_telugu_0182.png,negative,yes,not vulgar,non-abusive,none,0,a man with many expressions and expressions
+image_telugu_0532.png,negative,no,vulgar,non-abusive,none,0,a dialogues in telugu movie
+image_telugu_0194.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny dialogues of the day
+image_telugu_0481.png,neutral,yes,not vulgar,non-abusive,none,0,a man in a blue shirt is talking to someone
+image_telugu_0972.png,neutral,yes,not vulgar,non-abusive,others,0,a funny scene from the movie
+image_telugu_0842.png,positive,no,not vulgar,non-abusive,social sub-groups,0,tamil movie dialogues dialoguess
+image_telugu_0597.png,neutral,yes,not vulgar,non-abusive,individual,0,the indian cricket team is playing in the match
+image_telugu_0453.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,tamil movie dialoguess
+image_telugu_0483.png,neutral,yes,not vulgar,non-abusive,none,0,telugu funny quotes in telugu telugu quotes in telugu telugu
+image_telugu_0510.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a group of people standing around a building
+image_telugu_0065.png,neutral,yes,not vulgar,non-abusive,none,0,person and person in the movie
+image_telugu_0028.png,negative,yes,not vulgar,abusive,social sub-groups,1,a screenshot of the news on the news
+image_telugu_0131.png,neutral,yes,not vulgar,non-abusive,individual,0,a funny message from an old man
+image_telugu_0208.png,neutral,yes,not vulgar,non-abusive,gender,0,person in a movie
+image_telugu_0996.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person in a funny conversation with person in a funny conversation with person in a funny conversation with person in a funny conversation with person in a funny
+image_telugu_0029.png,neutral,yes,not vulgar,non-abusive,none,0,telugu funny dialoguess
+image_telugu_0489.png,neutral,yes,not vulgar,non-abusive,none,0,a man is being interviewed by a group of people
+image_telugu_0840.png,negative,yes,not vulgar,abusive,individual,1,person and person at the event
+image_telugu_0512.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,malayalam dialoguess
+image_telugu_0982.png,positive,no,not vulgar,non-abusive,none,0,telugu comedy dialoguess in telugu tv
+image_telugu_0108.png,negative,no,not vulgar,non-abusive,social sub-groups,0,person in telugu movie
+image_telugu_0651.png,neutral,yes,not vulgar,abusive,individual,1,pawan and pawan in the telugu movie
+image_telugu_0582.png,neutral,yes,not vulgar,non-abusive,political,0,a dog with a doctor ' s hat on it ' s head
+image_telugu_0709.png,neutral,yes,not vulgar,non-abusive,political,0,a man in a white shirt is talking to a reporter
+image_telugu_0505.png,neutral,yes,not vulgar,non-abusive,none,0,a funny picture of a couple with the capt of the same text
+image_telugu_0109.png,negative,yes,not vulgar,abusive,social sub-groups,1,telugu dialoguess in telugu movies
+image_telugu_0424.png,neutral,yes,vulgar,non-abusive,individual,0,a girl with long hair and a smile on her face
+image_telugu_0104.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person in telugu movie
+image_telugu_0654.png,neutral,yes,not vulgar,non-abusive,political,0,pawh reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0891.png,positive,no,not vulgar,non-abusive,others,0,vijay vijay in telugu movie
+image_telugu_0856.png,negative,yes,not vulgar,abusive,individual,1,telugu funny moments in telugu tv
+image_telugu_0768.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a piano with the words ' mung mung mung mung mung mung mung mu
+image_telugu_0932.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,tamil comedy dialoguess
+image_telugu_0075.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny conversation between kartih and karth
+image_telugu_0400.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a group of people are smiling and laughing
+image_telugu_0326.png,negative,yes,not vulgar,non-abusive,none,0,a man is seen in front of an airplane
+image_telugu_0091.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,person in telugu movie
+image_telugu_0563.png,negative,no,vulgar,non-abusive,none,0,person in a red dress with a black circle around her neck
+image_telugu_0355.png,neutral,yes,not vulgar,non-abusive,individual,0,the dialogues of the actor in the movie
+image_telugu_0419.png,negative,no,not vulgar,non-abusive,individual,0,person in a telugu movie
+image_telugu_0161.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0332.png,positive,no,not vulgar,non-abusive,individual,0,a couple in love scene with the capt
+image_telugu_0676.png,neutral,yes,not vulgar,non-abusive,none,0,a dog with a bunch of flowers in its mouth
+image_telugu_0547.png,positive,no,not vulgar,non-abusive,none,0,a cartoon character with a red shirt and yellow shorts
+image_telugu_0785.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,an old man is giving a young girl to her
+image_telugu_0021.png,neutral,yes,not vulgar,non-abusive,gender,0,the many faces of the bjps
+image_telugu_0954.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0417.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,tamil dialoguess with images
+image_telugu_0197.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,"a cartoon duck with a pink shirt and a blue shirt, and the capt reads, every morning me"
+image_telugu_0611.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a dog is running down the road with a capt
+image_telugu_0796.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a woman in a police uniform is talking to a man
+image_telugu_0984.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0217.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu romantic dialoguess
+image_telugu_0879.png,negative,yes,not vulgar,non-abusive,political,0,telugu dialoguess in telugu movies
+image_telugu_0088.png,negative,yes,vulgar,abusive,individual,1,watch kuramemud son with dad
+image_telugu_0687.png,neutral,yes,not vulgar,non-abusive,political,0,person and person in the movie
+image_telugu_0348.png,neutral,yes,vulgar,abusive,individual,1,a cartoon dog in a blue robe and a blue scarf
+image_telugu_0474.png,neutral,yes,not vulgar,non-abusive,individual,0,a man with a beard and a mustache
+image_telugu_0659.png,neutral,yes,not vulgar,non-abusive,individual,0,ys leader vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0631.png,neutral,yes,vulgar,non-abusive,individual,0,a col of the same couple in the same scene
+image_telugu_0370.png,neutral,yes,not vulgar,non-abusive,political,0,a screenshot of a man being a woman in a video
+image_telugu_0665.png,neutral,yes,not vulgar,non-abusive,individual,0,actor vijay reddy and actor vijay reddy reddy interview
+image_telugu_0380.png,negative,no,not vulgar,non-abusive,individual,0,person and person are all smiles in this funny video
+image_telugu_0994.png,negative,yes,not vulgar,non-abusive,others,0,telugu dialoguess in telugu telugu movie
+image_telugu_0603.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,the dialogues of the indian cricket team
+image_telugu_0523.png,neutral,no,vulgar,non-abusive,social sub-groups,0,a col of a girl with a heart in her mouth
+image_telugu_0450.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a movie with a quote from the movie
+image_telugu_0537.png,positive,no,not vulgar,non-abusive,social sub-groups,0,"a couple in love quotes, love quotes, funny quotes, funny pictures, funny pictures, funny pictures,"
+image_telugu_0939.png,neutral,yes,not vulgar,non-abusive,national origin,0,a dog in a store with a woman in the background
+image_telugu_0487.png,neutral,no,not vulgar,non-abusive,individual,0,malayalam movie dialogues dialoguess
+image_telugu_0804.png,positive,yes,not vulgar,non-abusive,others,0,the dialogues of vijay vijay and vijay
+image_telugu_0134.png,neutral,yes,not vulgar,non-abusive,none,0,funny jokes in telugu
+image_telugu_0541.png,neutral,yes,not vulgar,non-abusive,individual,0,hindi movie dialogues dialoguess
+image_telugu_0875.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,malayalam comedy dialoguess
+image_telugu_0573.png,neutral,yes,vulgar,non-abusive,none,0,a woman in a red jacket and a man in a black shirt with a red jacket and a red jacket
+image_telugu_0034.png,neutral,yes,vulgar,non-abusive,none,0,a funny scene from the movie
+image_telugu_0335.png,neutral,yes,vulgar,non-abusive,gender,0,tamil dialogues dialoguess
+image_telugu_0115.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a woman in a sari sari sari sari sari sari sari sari sari sari sari sari sari
+image_telugu_0316.png,positive,yes,not vulgar,non-abusive,none,0,a dog is standing next to a dog
+image_telugu_0708.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a red hat and a man in a blue shirt sitting at a table with a laptop
+image_telugu_0760.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,"a man holding a sign that says, ' i don ' t '"
+image_telugu_0430.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man is talking to another man on the screen
+image_telugu_0885.png,positive,no,not vulgar,non-abusive,national origin,0,a man is trying to get into a bus
+image_telugu_0066.png,neutral,yes,not vulgar,non-abusive,none,0,person and person in the movie
+image_telugu_0599.png,neutral,yes,not vulgar,non-abusive,political,0,tdp leader vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0232.png,neutral,yes,not vulgar,non-abusive,none,0,a man is talking to another man in the street
+image_telugu_0678.png,neutral,yes,not vulgar,non-abusive,individual,0,a col of the team and the capt of the capt
+image_telugu_0152.png,neutral,yes,not vulgar,non-abusive,none,0,telugu sad girl in bed
+image_telugu_0354.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,the bigg show with vijay vijay and vijay
+image_telugu_0258.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,the two teams of pakistan and india are talking to each other teams
+image_telugu_0431.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,tamil song lyrics in hindi
+image_telugu_0637.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a col of a man in a kitchen with a knife
+image_telugu_0849.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu comedy scenes in telugu movies
+image_telugu_0747.png,negative,yes,not vulgar,non-abusive,political,0,telangana govt chief ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram ram
+image_telugu_0048.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person and person in the movie
+image_telugu_0445.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0447.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu love quotes in telugu telugu quotes
+image_telugu_0005.png,neutral,yes,not vulgar,abusive,individual,1,a group of men standing around each other men
+image_telugu_0769.png,positive,no,not vulgar,non-abusive,social sub-groups,0,tamil movie
+image_telugu_0927.png,positive,no,not vulgar,non-abusive,political,0,telugu dialoguess in telugu movies
+image_telugu_0950.png,negative,yes,vulgar,non-abusive,social sub-groups,0,a man with a sign that says vh school
+image_telugu_0166.png,neutral,yes,not vulgar,non-abusive,none,0,a baby girl crying with her father
+image_telugu_0011.png,negative,yes,not vulgar,non-abusive,individual,0,person in telugu movie
+image_telugu_0887.png,positive,no,not vulgar,non-abusive,others,0,pawh reddy speech at the event
+image_telugu_0622.png,neutral,yes,not vulgar,non-abusive,none,0,"a cartoon character with a capt that reads, ' i ' m '"
+image_telugu_0266.png,positive,yes,not vulgar,non-abusive,political,0,a man in a white shirt is sitting in front of a crowd
+image_telugu_0484.png,neutral,yes,not vulgar,non-abusive,none,0,a cartoon character with a heart in his hand
+image_telugu_0836.png,positive,no,not vulgar,non-abusive,others,0,a video of the bjp party is being watched by the media
+image_telugu_0999.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0517.png,neutral,yes,not vulgar,non-abusive,none,0,maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha maha
+image_telugu_0969.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,pawanu telugu movie dialogues dialogues
+image_telugu_0711.png,neutral,yes,not vulgar,non-abusive,political,0,a man is talking to a woman in telugu
+image_telugu_0195.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a yellow shirt with a blue shirt on
+image_telugu_0179.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0215.png,neutral,yes,not vulgar,non-abusive,gender,0,telugu dialoguess in telugu movies
+image_telugu_0792.png,positive,no,not vulgar,non-abusive,social sub-groups,0,manuu rajar singh singh singh singh singh singh singh singh singh singh singh singh singh singh singh singh
+image_telugu_0458.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man with a guitar and a woman with a guitar
+image_telugu_0895.png,positive,no,not vulgar,non-abusive,others,0,pawanu telugu dialogues dialoguess
+image_telugu_0165.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu love quotes in telugu telugu quotes
+image_telugu_0384.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person and person in a conversation in telugu movie
+image_telugu_0145.png,positive,yes,not vulgar,non-abusive,none,0,telugu funny dog quotes in telugu telugu telugu
+image_telugu_0658.png,positive,no,not vulgar,non-abusive,national origin,0,sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri sri
+image_telugu_0409.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny picture of a man with a guitar
+image_telugu_0666.png,neutral,yes,not vulgar,non-abusive,individual,0,vijay vijay and vijay vijay in telugu movie
+image_telugu_0053.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a picture of a man with a mustache and a woman with a mustache
+image_telugu_0883.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man is driving a car with a woman in the back
+image_telugu_0436.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,"person, person, person, person, person, person, person, person, person, the lord"
+image_telugu_0963.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a protest in telangana over the election
+image_telugu_0540.png,positive,no,not vulgar,non-abusive,none,0,the love story of person and person in the movie
+image_telugu_0698.png,negative,yes,not vulgar,non-abusive,political,0,tamil funny dialoguess
+image_telugu_0625.png,neutral,yes,not vulgar,non-abusive,none,0,"a man with a beard and a beard, holding a gun in his hand, and a text that reads"
+image_telugu_0330.png,neutral,yes,vulgar,non-abusive,individual,0,a woman with sunglasses and a child in the background
+image_telugu_0122.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0212.png,neutral,yes,not vulgar,non-abusive,gender,0,telugu dialoguess in telugu movies
+image_telugu_0822.png,positive,yes,not vulgar,non-abusive,individual,0,the best moments of the cricket world cup
+image_telugu_0093.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny jokes on life
+image_telugu_0270.png,neutral,no,vulgar,non-abusive,social sub-groups,0,a girl with glasses and a speech in malayalam
+image_telugu_0295.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a dialogues of person in the movie
+image_telugu_0031.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a bus with a man talking to another
+image_telugu_0460.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a yellow shirt is sleeping on a bed
+image_telugu_0174.png,positive,yes,vulgar,non-abusive,none,0,"a funny picture of a man with a beard and a beard, with the capt that reads after listening to"
+image_telugu_0184.png,negative,yes,not vulgar,abusive,political,1,the dialogues of person in the movie
+image_telugu_0801.png,positive,no,not vulgar,non-abusive,social sub-groups,0,shra movie release on 25th december
+image_telugu_0012.png,neutral,yes,not vulgar,non-abusive,individual,0,telugu funny jokes for kids
+image_telugu_0382.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a col of the actors in the movie
+image_telugu_0336.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,sad dialogues of the day
+image_telugu_0045.png,neutral,yes,not vulgar,non-abusive,individual,0,a couple is kissing in the same moment
+image_telugu_0475.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,hindi movie dialogues dialoguess
+image_telugu_0092.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a white shirt is talking to the camera with a black background and a black background with a
+image_telugu_0467.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a white coat and orange shirt is talking to another man in a white coat and orange shirt is talking to another man in a
+image_telugu_0233.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man talking on a cell phone with a woman in the background
+image_telugu_0285.png,neutral,no,vulgar,non-abusive,individual,0,a girl with a surprised look on her face
+image_telugu_0167.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0959.png,neutral,yes,not vulgar,non-abusive,none,0,a scene from the movie ' kaala '
+image_telugu_0903.png,negative,no,not vulgar,non-abusive,others,0,a house fire in hyderabad
+image_telugu_0776.png,positive,no,not vulgar,non-abusive,social sub-groups,0,a col of a woman and two men in a car
+image_telugu_0136.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu quotes about life in telugu telugu quotes
+image_telugu_0105.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"love quotes in telugu telugu telugu quotes, telugu quotes, telugu quotes, love quotes, love quotes, funny"
+image_telugu_0170.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a child with glasses and a teacher ' s name
+image_telugu_0674.png,neutral,yes,not vulgar,non-abusive,national origin,0,a funny joke from the actor who he is talking to
+image_telugu_0693.png,negative,yes,not vulgar,non-abusive,political,0,a man holding a piece of food in front of a tv screen
+image_telugu_0576.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person and person in the movie
+image_telugu_0703.png,neutral,yes,vulgar,abusive,political,1,pawh reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0551.png,neutral,yes,not vulgar,non-abusive,none,0,a man sitting in front of a computer screen
+image_telugu_0352.png,neutral,yes,not vulgar,non-abusive,individual,0,a man with a flower in his hair and a woman with a flower in her hair
+image_telugu_0771.png,neutral,yes,not vulgar,non-abusive,others,0,malayalam comedy dialoguess
+image_telugu_0748.png,negative,yes,vulgar,abusive,political,1,anil babu in the news about his upcoming movie
+image_telugu_0365.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man with a mustache and mustaches in telugu telugu dialogues
+image_telugu_0493.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny picture of a man with a mustache and mustache
+image_telugu_0777.png,neutral,yes,not vulgar,non-abusive,others,0,a col of a man and woman on a beach
+image_telugu_0300.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a cartoon character with a cat on his head and a capt that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0919.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a screenshot of a man laughing and talking to another man on the road
+image_telugu_0183.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a man with a red face and a black nose
+image_telugu_0059.png,neutral,yes,not vulgar,non-abusive,individual,0,aya and anush in the movie
+image_telugu_0039.png,negative,yes,not vulgar,non-abusive,none,0,a man with a beard and a beard
+image_telugu_0015.png,negative,yes,not vulgar,non-abusive,individual,0,telugu dialoguess in telugu movies
+image_telugu_0381.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a woman is talking to a dog
+image_telugu_0389.png,neutral,yes,not vulgar,non-abusive,gender,0,a man with a beard and a beard with a mustache
+image_telugu_0639.png,neutral,yes,not vulgar,non-abusive,none,0,funny cartoon pictures of the day
+image_telugu_0559.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a woman in a yellow sari sari sari sari sari sari sari sari sari sari sari sar
+image_telugu_0831.png,positive,no,not vulgar,non-abusive,others,0,telugu movie dialoguess
+image_telugu_0905.png,neutral,yes,not vulgar,non-abusive,others,0,tamil dialoguess of actress kausha
+image_telugu_0120.png,neutral,yes,not vulgar,non-abusive,none,0,a man with a surprised expression on his face
+image_telugu_0290.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,memes memes memes memes memesmes memesmesmesmesmesmesmesmesmes
+image_telugu_0702.png,neutral,yes,not vulgar,non-abusive,political,0,anura telugu movie dialogues
+image_telugu_0486.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,maha gandhi gandhi quotes
+image_telugu_0347.png,positive,yes,vulgar,non-abusive,individual,0,a dog is sitting on a bed with a woman
+image_telugu_0699.png,positive,no,not vulgar,non-abusive,individual,0,sachvi rajan and sachvi rajan
+image_telugu_0462.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a man with a mustache and mustache in his mouth
+image_telugu_0240.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man singing into a microphone with the capt in the middle
+image_telugu_0739.png,negative,yes,not vulgar,non-abusive,political,0,a man is talking to a woman in a telugu movie
+image_telugu_0681.png,neutral,yes,not vulgar,abusive,national origin,1,a screen shot of the scene in pakistan
+image_telugu_0518.png,neutral,yes,vulgar,non-abusive,none,0,maha gandhi gandhi quotes
+image_telugu_0610.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny joke from the malayalam movie
+image_telugu_0094.png,negative,yes,not vulgar,abusive,political,1,a man talking to a woman in a telugu movie
+image_telugu_0247.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,dh dh dh dh dh dh dh dh dh dh dh dh dh dh dh dh dh dh dh dh dh
+image_telugu_0076.png,neutral,yes,not vulgar,non-abusive,none,0,a man riding a bike next to a van
+image_telugu_0605.png,neutral,yes,not vulgar,non-abusive,none,0,malayalam dialoguess
+image_telugu_0886.png,neutral,yes,not vulgar,non-abusive,others,0,a funny video of person
+image_telugu_0846.png,neutral,yes,not vulgar,non-abusive,individual,0,telugu actress karthriya in telugu movie
+image_telugu_0661.png,neutral,yes,not vulgar,non-abusive,individual,0,a video of the match between the two teams
+image_telugu_0656.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man jumping in the air with a woman
+image_telugu_0765.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a dialogues of person and person in the movie
+image_telugu_0155.png,neutral,yes,not vulgar,non-abusive,individual,0,"telugu funny quotes, telugu quotes, funny jokes, funny jokes, funny jokes, funny jokes, funny jokes"
+image_telugu_0640.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,funny telugu jokes
+image_telugu_0701.png,neutral,yes,not vulgar,non-abusive,none,0,a bus is a bus that is not moving
+image_telugu_0157.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,the funny meme of the day
+image_telugu_0230.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialogues dialoguess in telugu movies
+image_telugu_0716.png,positive,no,not vulgar,non-abusive,social sub-groups,0,anil kashy funny face in telugu movie
+image_telugu_0286.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a man is making food in a kitchen
+image_telugu_0668.png,neutral,yes,not vulgar,non-abusive,political,0,a man with a beard and glasses speaking into a microphone
+image_telugu_0725.png,positive,no,not vulgar,non-abusive,social sub-groups,0,the best cricket team in the world
+image_telugu_0864.png,negative,yes,vulgar,non-abusive,social sub-groups,0,"a dog in a store with a sign saying, ' i ' m '"
+image_telugu_0571.png,negative,yes,vulgar,non-abusive,none,0,malayalam movie dialoguess
+image_telugu_0581.png,neutral,yes,not vulgar,non-abusive,individual,0,aniyaa and viveet in a photo
+image_telugu_0080.png,negative,yes,not vulgar,non-abusive,individual,0,a man sitting on a bench next to a woman
+image_telugu_0168.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,malayalam dialoguess
+image_telugu_0079.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny scene from the movie
+image_telugu_0808.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a man in a brown shirt and a white shirt is talking to another man in a brown shirt
+image_telugu_0191.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,two men in pink outfits standing next to each other men
+image_telugu_0013.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man talking to a woman in telugu
+image_telugu_0040.png,neutral,yes,not vulgar,non-abusive,gender,0,telugu dialoguess in telugu movies
+image_telugu_0937.png,negative,yes,not vulgar,non-abusive,gender,0,malayalam movie ' s latest comedy scene
+image_telugu_0346.png,negative,yes,vulgar,abusive,individual,1,a man and woman dancing in a yellow dress
+image_telugu_0456.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,"person, person, person, person, person, person, person, person, person, the boss, person"
+image_telugu_0246.png,neutral,yes,not vulgar,non-abusive,political,0,a dog singing in telugu telugu
+image_telugu_0085.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny dialoguess
+image_telugu_0601.png,neutral,yes,not vulgar,non-abusive,none,0,a man is talking to another man in a room
+image_telugu_0579.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man with glasses talking on a cell
+image_telugu_0277.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,hindi dialogues dialoguess
+image_telugu_0372.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,the greatest movie of all time
+image_telugu_0494.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a man in a white shirt and a woman in a yellow shirt, both talking to each other men in a room"
+image_telugu_0683.png,neutral,yes,not vulgar,non-abusive,individual,0,telugu dialoguess in telugu movies
+image_telugu_0014.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person and person in the movie
+image_telugu_0503.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a cartoon drawing of a couple
+image_telugu_0832.png,negative,no,not vulgar,non-abusive,others,0,a woman is seen in this image with a man who is holding her
+image_telugu_0574.png,neutral,yes,not vulgar,non-abusive,none,0,a dialogues of the movie
+image_telugu_0689.png,negative,yes,not vulgar,non-abusive,political,0,telangana govt govt govt govt govt govt govt govt govt govt govt govt govt govt govt govt govt govt govt govt
+image_telugu_0498.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0160.png,neutral,yes,not vulgar,non-abusive,none,0,funny cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon cartoon
+image_telugu_0901.png,positive,no,not vulgar,non-abusive,others,0,telugu dialoguess in telugu movies
+image_telugu_0872.png,neutral,yes,not vulgar,non-abusive,political,0,president trump and his wife in the oval room
+image_telugu_0196.png,neutral,no,not vulgar,non-abusive,political,0,a col of the two men who are in the same picture
+image_telugu_0086.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a funny dialogues of person in the movie
+image_telugu_0490.png,neutral,yes,not vulgar,non-abusive,individual,0,a boy smiling and holding a cell
+image_telugu_0269.png,negative,no,not vulgar,non-abusive,social sub-groups,0,vijay vijay and vijay vijay in telugu movie
+image_telugu_0902.png,negative,yes,vulgar,non-abusive,others,0,person and person in the movie
+image_telugu_0893.png,negative,yes,not vulgar,non-abusive,gender,0,telugu telugu movie dialoguess
+image_telugu_0249.png,neutral,yes,vulgar,non-abusive,individual,0,"a couple in love quotes, love quotes, hindi quotes, hindi quotes, hindi quotes, hindi quotes,"
+image_telugu_0805.png,positive,yes,not vulgar,non-abusive,others,0,a col of the actors in the movie
+image_telugu_0036.png,neutral,yes,not vulgar,non-abusive,none,0,a man is sleeping in bed with his head on the pillow
+image_telugu_0738.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man is sitting in front of a window with a newspaper
+image_telugu_0816.png,positive,yes,not vulgar,non-abusive,others,0,a col of the dialoguess of the movie
+image_telugu_0626.png,neutral,yes,not vulgar,non-abusive,none,0,a col col with a picture of a dog and a man
+image_telugu_0506.png,neutral,yes,not vulgar,non-abusive,none,0,"a man talking on a cell phone with the capt that says, ' yeki ed kalanta?"
+image_telugu_0971.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0304.png,negative,yes,vulgar,abusive,social sub-groups,1,a cat is sitting on the back of a truck
+image_telugu_0361.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,malayalam funny song
+image_telugu_0960.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a man with a very expression on his face
+image_telugu_0074.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a white shirt and a woman in a red shirt are talking to each other people
+image_telugu_0766.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a group of people dancing in a nightclub
+image_telugu_0376.png,neutral,no,not vulgar,non-abusive,individual,0,a girl in a blue dress and a man in a white shirt
+image_telugu_0001.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a cartoon character in a room with a bed and a woman sitting on the couch
+image_telugu_0673.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0888.png,positive,yes,not vulgar,non-abusive,others,0,tamil dialogues of the movie
+image_telugu_0723.png,negative,yes,not vulgar,non-abusive,political,0,a man talking to a woman in a public meeting
+image_telugu_0310.png,negative,no,vulgar,non-abusive,social sub-groups,0,person and person in the movie
+image_telugu_0720.png,neutral,yes,not vulgar,non-abusive,others,0,telugu dialoguess in telugu movies
+image_telugu_0032.png,neutral,yes,not vulgar,non-abusive,gender,0,telugu dialogues of the actor
+image_telugu_0229.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a group of people in a room with a quote
+image_telugu_0898.png,positive,no,not vulgar,non-abusive,others,0,malayalam dialoguess
+image_telugu_0309.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,tamil comedy scene with telugu actress and actor
+image_telugu_0718.png,negative,yes,not vulgar,non-abusive,political,0,person in a movie
+image_telugu_0773.png,positive,no,not vulgar,non-abusive,social sub-groups,0,a man holding a sign with a picture of him
+image_telugu_0908.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a scene from the movie ' s first look
+image_telugu_0634.png,neutral,yes,vulgar,abusive,none,1,a man in a blue shirt is holding his head
+image_telugu_0511.png,neutral,yes,not vulgar,non-abusive,individual,0,telugu dialoguess in telugu movies
+image_telugu_0479.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man holding a phone with a number on it
+image_telugu_0791.png,positive,no,not vulgar,non-abusive,social sub-groups,0,a man in a brown jacket and a man in a white shirt with a beard and a beard
+image_telugu_0189.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a screenshot of person and person in a movie
+image_telugu_0060.png,negative,yes,not vulgar,abusive,individual,1,a man taking a selfie with his cell phone
+image_telugu_0358.png,neutral,yes,vulgar,abusive,gender,1,a col of the actors in the movie
+image_telugu_0650.png,neutral,yes,not vulgar,abusive,individual,1,a man in a lab holding a glass of milk
+image_telugu_0495.png,negative,yes,vulgar,non-abusive,social sub-groups,0,a man in a green jacket talking to another man in a green jacket
+image_telugu_0525.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a woman in a pink dress and glasses with a man in a white shirt
+image_telugu_0530.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,sad love quotes for him
+image_telugu_0073.png,neutral,yes,not vulgar,non-abusive,none,0,telugu funny quotes in telugu telugu telugu quotes
+image_telugu_0575.png,neutral,yes,not vulgar,non-abusive,individual,0,a young boy is being his father ' s hand at the event
+image_telugu_0331.png,negative,no,vulgar,non-abusive,individual,0,person in a sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar
+image_telugu_0935.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,funny dog in car with capt
+image_telugu_0188.png,positive,no,not vulgar,non-abusive,none,0,tamil dialoguess
+image_telugu_0646.png,neutral,yes,not vulgar,abusive,individual,1,a man talking to another man in a conversation
+image_telugu_0641.png,neutral,yes,not vulgar,non-abusive,none,0,a couple sitting at a table with a quote on it
+image_telugu_0268.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0071.png,neutral,yes,not vulgar,non-abusive,none,0,a poster of person
+image_telugu_0133.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny jokes on life
+image_telugu_0527.png,negative,no,vulgar,non-abusive,none,0,a woman with a pink lipstick and a pink lipstick
+image_telugu_0360.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"a man with a microphone and a sign that says, i don ' t care"
+image_telugu_0557.png,neutral,yes,not vulgar,non-abusive,none,0,a man is talking to another man in a room
+image_telugu_0492.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a cartoon character with a big chest and a big chest
+image_telugu_0163.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny dialogues from the movie
+image_telugu_0319.png,positive,no,not vulgar,non-abusive,individual,0,a police officer is giving a girl a kiss
+image_telugu_0802.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,the cricket team in the movie
+image_telugu_0378.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a screenshot of a man talking to a woman
+image_telugu_0202.png,neutral,yes,not vulgar,non-abusive,gender,0,"a woman with a sign that says, ' i ' m '"
+image_telugu_0317.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a man is standing next to another man
+image_telugu_0762.png,positive,no,not vulgar,non-abusive,individual,0,a col of the actor in a movie
+image_telugu_0009.png,neutral,yes,not vulgar,non-abusive,none,0,a dialogues of the movie
+image_telugu_0198.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a picture of a man with a quote on it
+image_telugu_0278.png,neutral,yes,not vulgar,non-abusive,religion,0,a dog is standing in the middle of a road
+image_telugu_0544.png,negative,no,vulgar,non-abusive,none,0,a col of a girl with different expressions
+image_telugu_0528.png,negative,no,vulgar,non-abusive,none,0,"telugu actress person, person, person, person, person, person, person, person, person"
+image_telugu_0800.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,bharat masiku vidhu telugu movie
+image_telugu_0214.png,neutral,yes,not vulgar,non-abusive,national origin,0,a man talking to a woman in a room with a poster
+image_telugu_0126.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny joke on the face of a man
+image_telugu_0552.png,neutral,yes,not vulgar,non-abusive,none,0,yeadu raja ninu - official video song
+image_telugu_0568.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0472.png,neutral,yes,vulgar,non-abusive,none,0,a dog is standing next to a cup of coffee
+image_telugu_0930.png,negative,yes,not vulgar,non-abusive,others,0,a man in a white shirt is talking to the camera
+image_telugu_0429.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a movie with a quote from the movie
+image_telugu_0593.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a screenshot of a man in a tuk tuk
+image_telugu_0338.png,negative,yes,vulgar,non-abusive,individual,0,funny text messages for whatsawhate
+image_telugu_0990.png,positive,yes,not vulgar,non-abusive,individual,0,a man in a white shirt is talking to a woman in a yellow shirt
+image_telugu_0261.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a man is talking to a woman in a restaurant
+image_telugu_0572.png,neutral,yes,not vulgar,non-abusive,none,0,a dialogues in hindi with a picture of a man and woman
+image_telugu_0312.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,tamil funny dialoguess
+image_telugu_0084.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a woman in a red dress is seen on the screen
+image_telugu_0743.png,positive,yes,not vulgar,non-abusive,individual,0,actor vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0287.png,neutral,yes,not vulgar,non-abusive,individual,0,ayur song lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics lyrics
+image_telugu_0201.png,negative,yes,vulgar,abusive,social sub-groups,1,"a man sitting on the steps of a building with a text that reads, ` ' '"
+image_telugu_0337.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a funny scene from the movie
+image_telugu_0806.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a man with a mustache and a mustache in his mouth
+image_telugu_0499.png,neutral,yes,not vulgar,non-abusive,none,0,anilu telugu movie dialogues
+image_telugu_0143.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a group of people sitting around a table with food
+image_telugu_0254.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a dog and a cat are sitting on a bed
+image_telugu_0783.png,positive,no,not vulgar,non-abusive,social sub-groups,0,"a man with a beard and sunglasses on his face, holding a microphone"
+image_telugu_0586.png,neutral,yes,not vulgar,non-abusive,political,0,a woman is talking to a man in a news room
+image_telugu_0303.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny dialogues of the actor
+image_telugu_0807.png,positive,no,not vulgar,non-abusive,others,0,naeru shaba sou hon naeru naeru naeru naeru naeru naeru na
+image_telugu_0321.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,on march 2 on march 2
+image_telugu_0476.png,positive,no,not vulgar,non-abusive,individual,0,person and person in yellow sari sari sari sari sari sari sari sari sari sari sari sar
+image_telugu_0884.png,positive,no,not vulgar,non-abusive,social sub-groups,0,a man talking on the phone with a map in the background
+image_telugu_0353.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a screenshot of a dog and a cat
+image_telugu_0916.png,neutral,yes,not vulgar,non-abusive,individual,0,a song with a picture of a man playing a guitar
+image_telugu_0010.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a picture of a man with a quote on it
+image_telugu_0929.png,negative,yes,not vulgar,non-abusive,others,0,telugu movie dialoguess
+image_telugu_0920.png,neutral,yes,not vulgar,non-abusive,others,0,funny dog in telugu telugu funny funny dog in telugu telugu funny dog in telugu funny dog in telugu funny dog in telugu funny dog in telugu
+image_telugu_0555.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a dog sitting on top of a table with a cup
+image_telugu_0707.png,negative,yes,not vulgar,non-abusive,political,0,telugu dialoguess in telugu movies
+image_telugu_0008.png,negative,yes,not vulgar,non-abusive,individual,0,a woman in a red shirt and a woman in a brown shirt are on the set of a tv show
+image_telugu_0732.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,pawan and vijay in the movie
+image_telugu_0172.png,negative,yes,vulgar,abusive,individual,1,person and person in the movie
+image_telugu_0156.png,positive,yes,not vulgar,non-abusive,none,0,cute baby girl in black dress and hat
+image_telugu_0830.png,negative,yes,not vulgar,non-abusive,others,0,a man who was murdered in a tamil movie
+image_telugu_0063.png,neutral,yes,not vulgar,non-abusive,none,0,person and person in the movie
+image_telugu_0284.png,neutral,yes,not vulgar,non-abusive,individual,0,a man and woman are talking in a group of people
+image_telugu_0081.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a child in a school uniform is pointing at the camera
+image_telugu_0395.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny dialogues of person
+image_telugu_0504.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,tamil dialoguess
+image_telugu_0100.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,tamil dialoguess that will make you laugh
+image_telugu_0465.png,positive,yes,not vulgar,non-abusive,individual,0,funny telugu funny dialoguess
+image_telugu_0235.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,donald and ivan trump kissing
+image_telugu_0608.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man and woman are talking to each other people
+image_telugu_0829.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,tamil dialoguess in telugu movies
+image_telugu_0684.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0033.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a picture of a man kissing a woman in the middle of a movie
+image_telugu_0386.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man with a mustache and a woman with a mustache and a man with a mustache and a woman with
+image_telugu_0251.png,neutral,yes,vulgar,non-abusive,none,0,a doge is a doge that is a doge that is a doge that is a dog
+image_telugu_0596.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny picture of a man eating food
+image_telugu_0811.png,negative,yes,not vulgar,non-abusive,others,0,the dialogues of person in the movie
+image_telugu_0607.png,positive,no,not vulgar,non-abusive,social sub-groups,0,person in telugu movie
+image_telugu_0204.png,neutral,yes,not vulgar,abusive,social sub-groups,1,a col of the same song
+image_telugu_0700.png,negative,yes,not vulgar,abusive,political,1,raj raj and raj raj on the politics debate
+image_telugu_0323.png,positive,no,not vulgar,non-abusive,political,0,tamil dialogues dialoguess
+image_telugu_0072.png,neutral,yes,not vulgar,non-abusive,none,0,a young boy crying in the street
+image_telugu_0958.png,negative,no,not vulgar,non-abusive,others,0,a man is being raped in the house of a woman in telangana
+image_telugu_0368.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a suit and a woman in a dress
+image_telugu_0941.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man talking to a woman in the street
+image_telugu_0538.png,positive,no,not vulgar,non-abusive,individual,0,a man in a green shirt is standing in front of a crowd
+image_telugu_0857.png,neutral,yes,not vulgar,non-abusive,none,0,tamil funny dialoguess
+image_telugu_0867.png,negative,yes,vulgar,abusive,national origin,1,a man with a beard and a beard in a blue shirt
+image_telugu_0451.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a screenshot of a man and woman in a red scarf
+image_telugu_0612.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,malayalam movie dialoguess with english subs
+image_telugu_0531.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,the love story of the actress and her husband
+image_telugu_0211.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny jokes on life
+image_telugu_0302.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man is eating food in a restaurant
+image_telugu_0953.png,positive,yes,not vulgar,non-abusive,others,0,a car full of money
+image_telugu_0416.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny dialoguess
+image_telugu_0137.png,negative,yes,not vulgar,non-abusive,none,0,a picture of a man and woman with the words in spanish
+image_telugu_0401.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a screenshot of a woman with a smile on her face
+image_telugu_0216.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny jokes on life
+image_telugu_0789.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,nai nai nai nai nai nai nai nai nai nai nai nai nai nai nai
+image_telugu_0772.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a woman in a bikini top and a man in a hat and a man in a hat and a woman
+image_telugu_0064.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a col of the actors in malayalam movies
+image_telugu_0617.png,neutral,yes,vulgar,abusive,none,1,a man in a red shirt is looking at his phone
+image_telugu_0936.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man drinking a beer and another drinking a beer
+image_telugu_0218.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu love quotes in telugu telugu quotes in telugu telugu quotes in telugu
+image_telugu_0171.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a child with glasses and a teacher ' s face
+image_telugu_0839.png,positive,no,not vulgar,non-abusive,religion,0,person ' s speech at the event
+image_telugu_0835.png,negative,no,not vulgar,non-abusive,others,0,a woman who was raped in a hospital
+image_telugu_0113.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man holding a baby in his lap
+image_telugu_0394.png,neutral,yes,not vulgar,non-abusive,individual,0,malayalam comedy dialoguess
+image_telugu_0516.png,neutral,yes,not vulgar,non-abusive,none,0,a man talking to a woman in a room
+image_telugu_0267.png,negative,yes,vulgar,abusive,individual,1,a screenshot of a man with a mustache and mustache
+image_telugu_0671.png,neutral,yes,not vulgar,non-abusive,political,0,tdp leaders in parliament meeting
+image_telugu_0918.png,negative,no,not vulgar,non-abusive,others,0,anil and anil in telugu movie
+image_telugu_0507.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0410.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a couple in a room with a window and a window
+image_telugu_0679.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,valentine day 2020 date in telugu telugu tv
+image_telugu_0397.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man laying on the ground
+image_telugu_0761.png,positive,no,not vulgar,non-abusive,social sub-groups,0,funny moments from the cricket world cup
+image_telugu_0548.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a white shirt and a man in a black shirt
+image_telugu_0089.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu movie dialogues dialoguess
+image_telugu_0149.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,"telugu love quotes in telugu telugu quotes, telugu quotes, telugu quotes, love quotes, love quotes, love"
+image_telugu_0256.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,the poster for the movie
+image_telugu_0127.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialogues of actor raj raj
+image_telugu_0669.png,positive,no,not vulgar,non-abusive,religion,0,person and person in a movie
+image_telugu_0787.png,positive,no,not vulgar,non-abusive,social sub-groups,0,the avengers are back in the avengers universe
+image_telugu_0058.png,neutral,yes,not vulgar,non-abusive,none,0,person and person in the movie
+image_telugu_0096.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0213.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,funny school girl jokes
+image_telugu_0837.png,positive,no,not vulgar,non-abusive,others,0,a man in a helmet and glasses is talking to a woman
+image_telugu_0135.png,neutral,yes,not vulgar,non-abusive,national origin,0,"a child with a speech bubble saying that says, ' i ' m '"
+image_telugu_0868.png,positive,no,not vulgar,non-abusive,individual,0,telugu dialogues of actor
+image_telugu_0148.png,positive,yes,not vulgar,non-abusive,none,0,a text that reads ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `
+image_telugu_0609.png,neutral,yes,not vulgar,non-abusive,none,0,a doge sitting on a couch with a newspaper in its mouth
+image_telugu_0616.png,neutral,yes,not vulgar,non-abusive,individual,0,anura and anura in telugu movie
+image_telugu_0751.png,negative,yes,not vulgar,non-abusive,political,0,a video of the incident in hyderabad
+image_telugu_0952.png,negative,yes,vulgar,abusive,individual,1,telugu dialoguess in telugu movies
+image_telugu_0956.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0627.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,memesi memesi memesi memesi memesi memesi memesi memesi memesi memesi
+image_telugu_0909.png,negative,yes,not vulgar,non-abusive,individual,0,a screenshot of the scene of the movie
+image_telugu_0306.png,neutral,yes,not vulgar,non-abusive,none,0,a group of people in red robes with the words in english
+image_telugu_0392.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,first look of first look of first look of first look of first look of first look of first look of first look of first look of first look of
+image_telugu_0062.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a man with a red nose and a black nose with a red nose and a white nose with a red
+image_telugu_0534.png,neutral,yes,vulgar,non-abusive,none,0,malayalam movie dialoguess
+image_telugu_0003.png,neutral,yes,not vulgar,non-abusive,individual,0,"a screenshot of a man with a beard and a beard, text reads ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0967.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0670.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man is seen in a news room with a poster of his family
+image_telugu_0391.png,neutral,yes,vulgar,abusive,political,1,a man in a yellow shirt and a woman in a yellow shirt
+image_telugu_0980.png,negative,yes,not vulgar,non-abusive,others,0,telugu dialoguess in telugu movies
+image_telugu_0636.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a dog is standing next to a man in a suit
+image_telugu_0130.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu quotes in telugu
+image_telugu_0986.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0970.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0633.png,neutral,yes,not vulgar,non-abusive,none,0,"a man with a beard and a beard, and a woman with a beard, and a man with a"
+image_telugu_0926.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,a man is giving a woman a box of food
+image_telugu_0387.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man riding a motorcycle with a woman on the back
+image_telugu_0203.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,tamil dialoguess
+image_telugu_0987.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,person and person in the movie
+image_telugu_0051.png,positive,yes,not vulgar,non-abusive,gender,0,person and person in the movie
+image_telugu_0164.png,neutral,yes,not vulgar,non-abusive,none,0,a funny joke on the interview of the actor
+image_telugu_0334.png,neutral,yes,not vulgar,non-abusive,individual,0,a dog with a purple hair and a black hat
+image_telugu_0274.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a dog is standing on its hinds and a man is standing on his hinds
+image_telugu_0682.png,neutral,yes,not vulgar,non-abusive,individual,0,a man is pouring water on his face
+image_telugu_0315.png,neutral,yes,vulgar,non-abusive,individual,0,tamil dialoguess with dialoguess
+image_telugu_0598.png,neutral,yes,not vulgar,non-abusive,political,0,a dog is being carried by a woman in a village
+image_telugu_0906.png,positive,no,not vulgar,non-abusive,gender,0,a funny conversation between kartih and karthh
+image_telugu_0583.png,neutral,yes,not vulgar,non-abusive,individual,0,a screenshot of a group of people with the capt in spanish
+image_telugu_0677.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu telugu movies
+image_telugu_0283.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a group of people sitting in a room with a quote on the side
+image_telugu_0364.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a man with a mustache and mustaches on his face
+image_telugu_0455.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialogues of the movie
+image_telugu_0124.png,neutral,yes,not vulgar,non-abusive,none,0,telugu quotes in telugu
+image_telugu_0844.png,negative,yes,vulgar,abusive,individual,1,a man crying in the face of a woman
+image_telugu_0662.png,positive,no,not vulgar,non-abusive,national origin,0,the team of india and pakistan are all smiles for the camera
+image_telugu_0644.png,neutral,yes,not vulgar,non-abusive,individual,0,a woman in a yellow sari sari sari sari sari sari sari sari sari sari sari sar
+image_telugu_0728.png,negative,yes,not vulgar,non-abusive,political,0,vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0938.png,negative,no,not vulgar,non-abusive,social sub-groups,0,a woman wearing a mask and a man wearing a face mask
+image_telugu_0740.png,negative,yes,not vulgar,non-abusive,political,0,a man talking to a woman in telugu telugu
+image_telugu_0833.png,negative,yes,not vulgar,non-abusive,individual,0,a man talking to a woman in a bus
+image_telugu_0755.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,sunath saharm reng on feb
+image_telugu_0333.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,tamil dialogues dialoguess
+image_telugu_0812.png,positive,yes,not vulgar,non-abusive,individual,0,a man in a police uniform is pointing at the camera
+image_telugu_0733.png,positive,no,not vulgar,non-abusive,individual,0,a woman in a car with a man in the back
+image_telugu_0054.png,negative,yes,not vulgar,abusive,individual,1,a man is laughing and pointing at the camera
+image_telugu_0966.png,positive,no,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0299.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,malayalam dialoguess with english subs
+image_telugu_0443.png,negative,yes,vulgar,non-abusive,gender,0,a man in a tuk tuk tuk tuk tuk tuk tuk tuk tu
+image_telugu_0962.png,neutral,yes,not vulgar,non-abusive,others,0,a funny scene from the movie
+image_telugu_0439.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man holding a cell phone with the capt of a man in a white shirt
+image_telugu_0786.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,malayalam movie preme re re re re re re re re re re re re re re re re re
+image_telugu_0706.png,positive,no,not vulgar,non-abusive,none,0,vijay vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_0974.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a cap is talking into a microphone
+image_telugu_0219.png,neutral,yes,not vulgar,non-abusive,gender,0,a woman looking through a telescope at a camera
+image_telugu_0025.png,neutral,yes,not vulgar,non-abusive,gender,0,a man in a suit and tie is talking to a woman in a red dress
+image_telugu_0897.png,negative,yes,not vulgar,non-abusive,individual,0,vijay vijay and vijay vijay in the movie
+image_telugu_0192.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a couple in a photo with the capt of the capt
+image_telugu_0567.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu language
+image_telugu_0798.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,"a screenshot of a man in a white shirt and a white shirt, with the capt that reads,"
+image_telugu_0925.png,neutral,yes,not vulgar,non-abusive,others,0,anil kalvi in telugu movie
+image_telugu_0459.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a red shirt and sunglasses is holding a cigarette
+image_telugu_0132.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,telugu sad love quotes in telugu telugu sad love quotes in telugu telugu sad love quotes in telugu sad
+image_telugu_0449.png,neutral,yes,vulgar,non-abusive,political,0,a man is trying to get a woman ' s attention
+image_telugu_0870.png,neutral,yes,not vulgar,non-abusive,individual,0,kaala movie review
+image_telugu_0153.png,neutral,yes,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0965.png,negative,yes,not vulgar,non-abusive,individual,0,a man with glasses and a beard in a movie
+image_telugu_0590.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,kalha kalha kalha kalha kalha kalha kalha kalha kalha ka
+image_telugu_0973.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,tamil dialoguess of the actor
+image_telugu_0649.png,neutral,yes,not vulgar,non-abusive,political,0,telugu movie dialoguess
+image_telugu_0055.png,positive,yes,not vulgar,non-abusive,none,0,a woman in a graduation gown smiles at a man in a suit
+image_telugu_0241.png,negative,yes,not vulgar,non-abusive,individual,0,a boy with a smile and a cat on his face
+image_telugu_0210.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu funny quotes in telugu telugu funny quotes in telugu telugu
+image_telugu_0758.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a man in a blue shirt is holding a bat
+image_telugu_0413.png,neutral,yes,vulgar,abusive,individual,1,a couple talking to each other people
+image_telugu_0308.png,negative,yes,not vulgar,non-abusive,political,0,a man with a beard and a beard in a suit
+image_telugu_0469.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a scene from the movie ' s first look
+image_telugu_0432.png,neutral,yes,vulgar,non-abusive,social sub-groups,0,a doge and a cat sitting on a stage
+image_telugu_0374.png,neutral,yes,not vulgar,non-abusive,individual,0,memess memess memess memess memess memess memess memess memess memess
+image_telugu_0553.png,positive,no,not vulgar,non-abusive,none,0,a man talking to another man in a room
+image_telugu_0024.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a funny dialogues of person
+image_telugu_0862.png,negative,yes,not vulgar,non-abusive,individual,0,telugu dialoguess in telugu movies
+image_telugu_0119.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man pointing at a little girl with a thought bubble above her
+image_telugu_0393.png,neutral,yes,vulgar,abusive,individual,1,a cartoon picture of a man giving another man a kiss
+image_telugu_0587.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a white shirt and pink headband is talking to another man in a white shirt
+image_telugu_0860.png,positive,no,not vulgar,non-abusive,none,0,telugu dialoguess in telugu movies
+image_telugu_0642.png,neutral,yes,not vulgar,non-abusive,gender,0,malayalam dialoguess
+image_telugu_0570.png,neutral,yes,not vulgar,non-abusive,individual,0,a girl crying in the face of her father
+image_telugu_0313.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,anir ' s party in the movie
+image_telugu_0349.png,neutral,yes,not vulgar,non-abusive,individual,0,hindi movie dialogues dialoguess
+image_telugu_0396.png,neutral,yes,vulgar,non-abusive,individual,0,a man is being a woman in a crowd
+image_telugu_0242.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,malayalam comedy dialoguess
+image_telugu_0070.png,negative,yes,not vulgar,abusive,social sub-groups,1,telugu dialoguess in telugu telugu movies
+image_telugu_0314.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a woman with a cat on her face
+image_telugu_0385.png,neutral,yes,not vulgar,non-abusive,individual,0,malayalam comedy movie
+image_telugu_0915.png,positive,yes,not vulgar,non-abusive,others,0,veluma veluma veluma veluma veluma veluma veluma veluma veluma ve
+image_telugu_0695.png,negative,yes,not vulgar,non-abusive,political,0,person in a movie
+image_telugu_0404.png,neutral,yes,vulgar,non-abusive,none,0,a man in a brown shirt dancing with a crowd
+image_telugu_0052.png,negative,yes,not vulgar,non-abusive,none,0,person and person in the movie
+image_telugu_0657.png,neutral,yes,not vulgar,non-abusive,none,0,tamil dialoguess
+image_telugu_0341.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,malayalam dialoguess
+image_telugu_0098.png,negative,no,not vulgar,non-abusive,individual,0,a cartoon cat playing with a toy
+image_telugu_0588.png,neutral,yes,vulgar,abusive,social sub-groups,1,tamil funny videos
+image_telugu_0488.png,neutral,yes,not vulgar,non-abusive,none,0,a man is running in the mountains
+image_telugu_0293.png,neutral,yes,not vulgar,non-abusive,individual,0,malayalam comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy comedy
+image_telugu_0943.png,positive,yes,not vulgar,non-abusive,others,0,a man speaking into a microphone in a telugu news
+image_telugu_0989.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,telugu dialoguess in telugu movies
+image_telugu_0138.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,"a man in a suit and tie with a mustache and mustache, and a man in a suit and tie"
+image_telugu_0340.png,neutral,yes,not vulgar,non-abusive,individual,0,malayalam funny dialoguess
+image_telugu_0775.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,"a man with a beard and a beard, and a woman with a beard, and a man with a"
+image_telugu_0082.png,neutral,yes,not vulgar,abusive,individual,1,a man is sitting in front of a building
+image_telugu_0363.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a screenshot of a man with a mustache and mustache
+image_telugu_0767.png,positive,no,not vulgar,non-abusive,social sub-groups,0,attack on titan anime
+image_telugu_0255.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a black shirt and a man in a black shirt and a man in a black shirt and
+image_telugu_0297.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a bus is parked in front of a building
+image_telugu_0514.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man and woman talking in the street
+image_telugu_0205.png,neutral,no,not vulgar,non-abusive,none,0,person and person in the movie
+image_telugu_0329.png,positive,yes,not vulgar,non-abusive,none,0,a dog is standing next to a woman
+image_telugu_0813.png,positive,no,not vulgar,non-abusive,others,0,a dialogues of the movie
+image_telugu_0344.png,negative,yes,vulgar,non-abusive,social sub-groups,0,a man in a suit and glasses pointing at another man in a suit and glasses pointing at another man in a suit and glasses pointing at another
+image_telugu_0794.png,positive,no,not vulgar,non-abusive,social sub-groups,0,the movie poster for the upcoming movie
+image_telugu_0741.png,negative,yes,not vulgar,non-abusive,political,0,pawh reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy
+image_telugu_1000.png,negative,yes,not vulgar,non-abusive,others,0,a man in a hat is speaking into a microphone
+image_telugu_0911.png,neutral,yes,not vulgar,non-abusive,gender,0,telugu funny dialoguess in telugu movies
+image_telugu_0843.png,negative,yes,not vulgar,non-abusive,social sub-groups,0,mefnd my school comedy box
+image_telugu_0719.png,neutral,yes,not vulgar,non-abusive,political,0,a man in a red robe is talking to a woman in a white dress
+image_telugu_0471.png,positive,yes,not vulgar,non-abusive,social sub-groups,0,a col of images of food and people
+image_telugu_0632.png,neutral,yes,vulgar,non-abusive,none,0,a dog is talking to a man in a school
+image_telugu_0275.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,person in a movie
+image_telugu_0591.png,neutral,yes,not vulgar,non-abusive,none,0,a man in a yellow jacket is talking to the news
+image_telugu_0731.png,negative,yes,not vulgar,non-abusive,political,0,telugu dialoguess in telugu movies
+image_telugu_0238.png,positive,yes,not vulgar,non-abusive,none,0,the dialogues of the movie ' s dialoguess
+image_telugu_0549.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0,a man in a crown and a woman in a dress
+image_telugu_0296.png,neutral,yes,not vulgar,non-abusive,individual,0,"a man holding a watch with a capt that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+image_telugu_0652.png,neutral,yes,not vulgar,non-abusive,individual,0,vijay vijay reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy reddy

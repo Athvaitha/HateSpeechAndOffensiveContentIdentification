@@ -1,0 +1,801 @@
+ids,sentiment,sarcasm,vulgar,abuse,target,label
+image_telugu_0046.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0047.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0928.png,negative,yes,not vulgar,non-abusive,gender,0
+image_telugu_0850.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0466.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0763.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0351.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0129.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0554.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0524.png,neutral,yes,vulgar,non-abusive,individual,0
+image_telugu_0301.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0004.png,negative,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0810.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0282.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0123.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0619.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0750.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0944.png,negative,yes,not vulgar,non-abusive,national origin,0
+image_telugu_0871.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0281.png,negative,yes,vulgar,non-abusive,none,0
+image_telugu_0942.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0345.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0027.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0023.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0461.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0585.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0914.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0522.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0981.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0375.png,neutral,yes,vulgar,abusive,individual,1
+image_telugu_0139.png,positive,no,not vulgar,non-abusive,religion,0
+image_telugu_0434.png,positive,yes,not vulgar,non-abusive,individual,0
+image_telugu_0377.png,neutral,yes,vulgar,abusive,social sub-groups,1
+image_telugu_0841.png,negative,no,not vulgar,non-abusive,others,0
+image_telugu_0200.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0159.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0543.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0545.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0007.png,negative,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0327.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0921.png,positive,yes,vulgar,abusive,others,1
+image_telugu_0685.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0103.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0150.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0874.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0245.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0795.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0638.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0664.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0746.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0726.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0402.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0307.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0388.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0714.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0044.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0621.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0730.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0623.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0435.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0158.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0328.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0041.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0907.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0735.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0114.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0227.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0193.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0264.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0280.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0480.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0847.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0737.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0146.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0061.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0412.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0128.png,negative,no,vulgar,non-abusive,gender,0
+image_telugu_0910.png,positive,yes,not vulgar,non-abusive,gender,0
+image_telugu_0964.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0892.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0877.png,negative,no,not vulgar,non-abusive,none,0
+image_telugu_0934.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0444.png,positive,yes,not vulgar,non-abusive,gender,0
+image_telugu_0977.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0271.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0710.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0858.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0485.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0117.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0985.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0470.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0948.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0018.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0550.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0713.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0824.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0223.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0234.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0320.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0452.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0403.png,negative,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0978.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0464.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0224.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0243.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0426.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0815.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0754.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0049.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0653.png,neutral,yes,not vulgar,abusive,individual,1
+image_telugu_0946.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0017.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0350.png,negative,yes,vulgar,abusive,individual,1
+image_telugu_0861.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0473.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0057.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0102.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0819.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0140.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0399.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0121.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0144.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0648.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0519.png,positive,no,not vulgar,non-abusive,national origin,0
+image_telugu_0560.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0814.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0478.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0565.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0663.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0083.png,negative,yes,not vulgar,abusive,individual,1
+image_telugu_0620.png,neutral,yes,not vulgar,non-abusive,national origin,0
+image_telugu_0536.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0366.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0624.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0019.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0371.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0020.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0186.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0561.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0580.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0178.png,negative,yes,not vulgar,non-abusive,none,0
+image_telugu_0106.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0770.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0500.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0231.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0890.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0564.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0441.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0589.png,neutral,yes,not vulgar,non-abusive,national origin,0
+image_telugu_0520.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0752.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0912.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0869.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0343.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0042.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0566.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0263.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0322.png,positive,no,not vulgar,non-abusive,gender,0
+image_telugu_0180.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0577.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0501.png,neutral,yes,not vulgar,abusive,social sub-groups,1
+image_telugu_0154.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0294.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0176.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0078.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0357.png,neutral,yes,not vulgar,non-abusive,national origin,0
+image_telugu_0228.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0110.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0406.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0692.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0259.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0749.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0398.png,neutral,yes,not vulgar,abusive,political,1
+image_telugu_0817.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0947.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0181.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0162.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0628.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0880.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0187.png,positive,yes,not vulgar,non-abusive,gender,0
+image_telugu_0569.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0068.png,negative,yes,not vulgar,non-abusive,gender,0
+image_telugu_0177.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0265.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0845.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0457.png,positive,yes,not vulgar,non-abusive,political,0
+image_telugu_0615.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0988.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0405.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0717.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0482.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0324.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0276.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0992.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0859.png,negative,no,not vulgar,abusive,individual,1
+image_telugu_0502.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0248.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0222.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0273.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0896.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0418.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0356.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0759.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0468.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0704.png,negative,no,not vulgar,non-abusive,political,0
+image_telugu_0298.png,negative,yes,vulgar,non-abusive,political,0
+image_telugu_0865.png,negative,yes,not vulgar,abusive,individual,1
+image_telugu_0949.png,negative,yes,not vulgar,non-abusive,none,0
+image_telugu_0022.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0407.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0383.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0630.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0257.png,neutral,yes,vulgar,non-abusive,individual,0
+image_telugu_0809.png,positive,yes,not vulgar,non-abusive,individual,0
+image_telugu_0440.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0825.png,neutral,yes,vulgar,non-abusive,others,0
+image_telugu_0643.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0778.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0448.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0853.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0077.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0629.png,neutral,yes,vulgar,abusive,social sub-groups,1
+image_telugu_0647.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0712.png,negative,no,not vulgar,abusive,national origin,1
+image_telugu_0463.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0904.png,negative,no,not vulgar,non-abusive,none,0
+image_telugu_0116.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0099.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0101.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0112.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0722.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0515.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0556.png,neutral,yes,vulgar,abusive,individual,1
+image_telugu_0199.png,neutral,yes,not vulgar,abusive,gender,1
+image_telugu_0026.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0182.png,negative,yes,not vulgar,non-abusive,none,0
+image_telugu_0532.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0194.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0481.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0972.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0842.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0597.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0453.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0483.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0510.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0065.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0028.png,negative,yes,not vulgar,abusive,social sub-groups,1
+image_telugu_0131.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0208.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0996.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0029.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0489.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0840.png,negative,yes,not vulgar,abusive,individual,1
+image_telugu_0512.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0982.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0108.png,negative,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0651.png,neutral,yes,not vulgar,abusive,individual,1
+image_telugu_0582.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0709.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0505.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0109.png,negative,yes,not vulgar,abusive,social sub-groups,1
+image_telugu_0424.png,neutral,yes,vulgar,non-abusive,individual,0
+image_telugu_0104.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0654.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0891.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0856.png,negative,yes,not vulgar,abusive,individual,1
+image_telugu_0768.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0932.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0075.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0400.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0326.png,negative,yes,not vulgar,non-abusive,none,0
+image_telugu_0091.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0563.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0355.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0419.png,negative,no,not vulgar,non-abusive,individual,0
+image_telugu_0161.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0332.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0676.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0547.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0785.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0021.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0954.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0417.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0197.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0611.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0796.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0984.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0217.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0879.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0088.png,negative,yes,vulgar,abusive,individual,1
+image_telugu_0687.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0348.png,neutral,yes,vulgar,abusive,individual,1
+image_telugu_0474.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0659.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0631.png,neutral,yes,vulgar,non-abusive,individual,0
+image_telugu_0370.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0665.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0380.png,negative,no,not vulgar,non-abusive,individual,0
+image_telugu_0994.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0603.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0523.png,neutral,no,vulgar,non-abusive,social sub-groups,0
+image_telugu_0450.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0537.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0939.png,neutral,yes,not vulgar,non-abusive,national origin,0
+image_telugu_0487.png,neutral,no,not vulgar,non-abusive,individual,0
+image_telugu_0804.png,positive,yes,not vulgar,non-abusive,others,0
+image_telugu_0134.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0541.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0875.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0573.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0034.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0335.png,neutral,yes,vulgar,non-abusive,gender,0
+image_telugu_0115.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0316.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0708.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0760.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0430.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0885.png,positive,no,not vulgar,non-abusive,national origin,0
+image_telugu_0066.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0599.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0232.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0678.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0152.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0354.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0258.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0431.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0637.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0849.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0747.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0048.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0445.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0447.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0005.png,neutral,yes,not vulgar,abusive,individual,1
+image_telugu_0769.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0927.png,positive,no,not vulgar,non-abusive,political,0
+image_telugu_0950.png,negative,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0166.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0011.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0887.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0622.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0266.png,positive,yes,not vulgar,non-abusive,political,0
+image_telugu_0484.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0836.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0999.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0517.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0969.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0711.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0195.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0179.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0215.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0792.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0458.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0895.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0165.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0384.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0145.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0658.png,positive,no,not vulgar,non-abusive,national origin,0
+image_telugu_0409.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0666.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0053.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0883.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0436.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0963.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0540.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0698.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0625.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0330.png,neutral,yes,vulgar,non-abusive,individual,0
+image_telugu_0122.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0212.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0822.png,positive,yes,not vulgar,non-abusive,individual,0
+image_telugu_0093.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0270.png,neutral,no,vulgar,non-abusive,social sub-groups,0
+image_telugu_0295.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0031.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0460.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0174.png,positive,yes,vulgar,non-abusive,none,0
+image_telugu_0184.png,negative,yes,not vulgar,abusive,political,1
+image_telugu_0801.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0012.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0382.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0336.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0045.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0475.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0092.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0467.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0233.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0285.png,neutral,no,vulgar,non-abusive,individual,0
+image_telugu_0167.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0959.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0903.png,negative,no,not vulgar,non-abusive,others,0
+image_telugu_0776.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0136.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0105.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0170.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0674.png,neutral,yes,not vulgar,non-abusive,national origin,0
+image_telugu_0693.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0576.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0703.png,neutral,yes,vulgar,abusive,political,1
+image_telugu_0551.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0352.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0771.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0748.png,negative,yes,vulgar,abusive,political,1
+image_telugu_0365.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0493.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0777.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0300.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0919.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0183.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0059.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0039.png,negative,yes,not vulgar,non-abusive,none,0
+image_telugu_0015.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0381.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0389.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0639.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0559.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0831.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0905.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0120.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0290.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0702.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0486.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0347.png,positive,yes,vulgar,non-abusive,individual,0
+image_telugu_0699.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0462.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0240.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0739.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0681.png,neutral,yes,not vulgar,abusive,national origin,1
+image_telugu_0518.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0610.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0094.png,negative,yes,not vulgar,abusive,political,1
+image_telugu_0247.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0076.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0605.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0886.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0846.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0661.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0656.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0765.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0155.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0640.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0701.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0157.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0230.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0716.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0286.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0668.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0725.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0864.png,negative,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0571.png,negative,yes,vulgar,non-abusive,none,0
+image_telugu_0581.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0080.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0168.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0079.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0808.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0191.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0013.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0040.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0937.png,negative,yes,not vulgar,non-abusive,gender,0
+image_telugu_0346.png,negative,yes,vulgar,abusive,individual,1
+image_telugu_0456.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0246.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0085.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0601.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0579.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0277.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0372.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0494.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0683.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0014.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0503.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0832.png,negative,no,not vulgar,non-abusive,others,0
+image_telugu_0574.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0689.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0498.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0160.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0901.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0872.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0196.png,neutral,no,not vulgar,non-abusive,political,0
+image_telugu_0086.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0490.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0269.png,negative,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0902.png,negative,yes,vulgar,non-abusive,others,0
+image_telugu_0893.png,negative,yes,not vulgar,non-abusive,gender,0
+image_telugu_0249.png,neutral,yes,vulgar,non-abusive,individual,0
+image_telugu_0805.png,positive,yes,not vulgar,non-abusive,others,0
+image_telugu_0036.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0738.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0816.png,positive,yes,not vulgar,non-abusive,others,0
+image_telugu_0626.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0506.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0971.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0304.png,negative,yes,vulgar,abusive,social sub-groups,1
+image_telugu_0361.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0960.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0074.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0766.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0376.png,neutral,no,not vulgar,non-abusive,individual,0
+image_telugu_0001.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0673.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0888.png,positive,yes,not vulgar,non-abusive,others,0
+image_telugu_0723.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0310.png,negative,no,vulgar,non-abusive,social sub-groups,0
+image_telugu_0720.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0032.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0229.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0898.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0309.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0718.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0773.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0908.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0634.png,neutral,yes,vulgar,abusive,none,1
+image_telugu_0511.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0479.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0791.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0189.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0060.png,negative,yes,not vulgar,abusive,individual,1
+image_telugu_0358.png,neutral,yes,vulgar,abusive,gender,1
+image_telugu_0650.png,neutral,yes,not vulgar,abusive,individual,1
+image_telugu_0495.png,negative,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0525.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0530.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0073.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0575.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0331.png,negative,no,vulgar,non-abusive,individual,0
+image_telugu_0935.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0188.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0646.png,neutral,yes,not vulgar,abusive,individual,1
+image_telugu_0641.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0268.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0071.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0133.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0527.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0360.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0557.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0492.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0163.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0319.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0802.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0378.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0202.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0317.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0762.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0009.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0198.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0278.png,neutral,yes,not vulgar,non-abusive,religion,0
+image_telugu_0544.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0528.png,negative,no,vulgar,non-abusive,none,0
+image_telugu_0800.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0214.png,neutral,yes,not vulgar,non-abusive,national origin,0
+image_telugu_0126.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0552.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0568.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0472.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0930.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0429.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0593.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0338.png,negative,yes,vulgar,non-abusive,individual,0
+image_telugu_0990.png,positive,yes,not vulgar,non-abusive,individual,0
+image_telugu_0261.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0572.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0312.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0084.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0743.png,positive,yes,not vulgar,non-abusive,individual,0
+image_telugu_0287.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0201.png,negative,yes,vulgar,abusive,social sub-groups,1
+image_telugu_0337.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0806.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0499.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0143.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0254.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0783.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0586.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0303.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0807.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0321.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0476.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0884.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0353.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0916.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0010.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0929.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0920.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0555.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0707.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0008.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0732.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0172.png,negative,yes,vulgar,abusive,individual,1
+image_telugu_0156.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0830.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0063.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0284.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0081.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0395.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0504.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0100.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0465.png,positive,yes,not vulgar,non-abusive,individual,0
+image_telugu_0235.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0608.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0829.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0684.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0033.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0386.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0251.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0596.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0811.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0607.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0204.png,neutral,yes,not vulgar,abusive,social sub-groups,1
+image_telugu_0700.png,negative,yes,not vulgar,abusive,political,1
+image_telugu_0323.png,positive,no,not vulgar,non-abusive,political,0
+image_telugu_0072.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0958.png,negative,no,not vulgar,non-abusive,others,0
+image_telugu_0368.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0941.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0538.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0857.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0867.png,negative,yes,vulgar,abusive,national origin,1
+image_telugu_0451.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0612.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0531.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0211.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0302.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0953.png,positive,yes,not vulgar,non-abusive,others,0
+image_telugu_0416.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0137.png,negative,yes,not vulgar,non-abusive,none,0
+image_telugu_0401.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0216.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0789.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0772.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0064.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0617.png,neutral,yes,vulgar,abusive,none,1
+image_telugu_0936.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0218.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0171.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0839.png,positive,no,not vulgar,non-abusive,religion,0
+image_telugu_0835.png,negative,no,not vulgar,non-abusive,others,0
+image_telugu_0113.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0394.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0516.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0267.png,negative,yes,vulgar,abusive,individual,1
+image_telugu_0671.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0918.png,negative,no,not vulgar,non-abusive,others,0
+image_telugu_0507.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0410.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0679.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0397.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0761.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0548.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0089.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0149.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0256.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0127.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0669.png,positive,no,not vulgar,non-abusive,religion,0
+image_telugu_0787.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0058.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0096.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0213.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0837.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0135.png,neutral,yes,not vulgar,non-abusive,national origin,0
+image_telugu_0868.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0148.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0609.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0616.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0751.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0952.png,negative,yes,vulgar,abusive,individual,1
+image_telugu_0956.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0627.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0909.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0306.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0392.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0062.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0534.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0003.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0967.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0670.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0391.png,neutral,yes,vulgar,abusive,political,1
+image_telugu_0980.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0636.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0130.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0986.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0970.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0633.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0926.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0387.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0203.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0987.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0051.png,positive,yes,not vulgar,non-abusive,gender,0
+image_telugu_0164.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0334.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0274.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0682.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0315.png,neutral,yes,vulgar,non-abusive,individual,0
+image_telugu_0598.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0906.png,positive,no,not vulgar,non-abusive,gender,0
+image_telugu_0583.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0677.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0283.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0364.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0455.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0124.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0844.png,negative,yes,vulgar,abusive,individual,1
+image_telugu_0662.png,positive,no,not vulgar,non-abusive,national origin,0
+image_telugu_0644.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0728.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0938.png,negative,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0740.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0833.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0755.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0333.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0812.png,positive,yes,not vulgar,non-abusive,individual,0
+image_telugu_0733.png,positive,no,not vulgar,non-abusive,individual,0
+image_telugu_0054.png,negative,yes,not vulgar,abusive,individual,1
+image_telugu_0966.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0299.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0443.png,negative,yes,vulgar,non-abusive,gender,0
+image_telugu_0962.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0439.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0786.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0706.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0974.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0219.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0025.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0897.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0192.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0567.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0798.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0925.png,neutral,yes,not vulgar,non-abusive,others,0
+image_telugu_0459.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0132.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0449.png,neutral,yes,vulgar,non-abusive,political,0
+image_telugu_0870.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0153.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0965.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0590.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0973.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0649.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0055.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0241.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0210.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0758.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0413.png,neutral,yes,vulgar,abusive,individual,1
+image_telugu_0308.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0469.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0432.png,neutral,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0374.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0553.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0024.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0862.png,negative,yes,not vulgar,non-abusive,individual,0
+image_telugu_0119.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0393.png,neutral,yes,vulgar,abusive,individual,1
+image_telugu_0587.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0860.png,positive,no,not vulgar,non-abusive,none,0
+image_telugu_0642.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0570.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0313.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0349.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0396.png,neutral,yes,vulgar,non-abusive,individual,0
+image_telugu_0242.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0070.png,negative,yes,not vulgar,abusive,social sub-groups,1
+image_telugu_0314.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0385.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0915.png,positive,yes,not vulgar,non-abusive,others,0
+image_telugu_0695.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0404.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0052.png,negative,yes,not vulgar,non-abusive,none,0
+image_telugu_0657.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0341.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0098.png,negative,no,not vulgar,non-abusive,individual,0
+image_telugu_0588.png,neutral,yes,vulgar,abusive,social sub-groups,1
+image_telugu_0488.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0293.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0943.png,positive,yes,not vulgar,non-abusive,others,0
+image_telugu_0989.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0138.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0340.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0775.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0082.png,neutral,yes,not vulgar,abusive,individual,1
+image_telugu_0363.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0767.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0255.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0297.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0514.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0205.png,neutral,no,not vulgar,non-abusive,none,0
+image_telugu_0329.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0813.png,positive,no,not vulgar,non-abusive,others,0
+image_telugu_0344.png,negative,yes,vulgar,non-abusive,social sub-groups,0
+image_telugu_0794.png,positive,no,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0741.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_1000.png,negative,yes,not vulgar,non-abusive,others,0
+image_telugu_0911.png,neutral,yes,not vulgar,non-abusive,gender,0
+image_telugu_0843.png,negative,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0719.png,neutral,yes,not vulgar,non-abusive,political,0
+image_telugu_0471.png,positive,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0632.png,neutral,yes,vulgar,non-abusive,none,0
+image_telugu_0275.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0591.png,neutral,yes,not vulgar,non-abusive,none,0
+image_telugu_0731.png,negative,yes,not vulgar,non-abusive,political,0
+image_telugu_0238.png,positive,yes,not vulgar,non-abusive,none,0
+image_telugu_0549.png,neutral,yes,not vulgar,non-abusive,social sub-groups,0
+image_telugu_0296.png,neutral,yes,not vulgar,non-abusive,individual,0
+image_telugu_0652.png,neutral,yes,not vulgar,non-abusive,individual,0
