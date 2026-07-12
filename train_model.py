@@ -8,7 +8,7 @@ from torch.utils.data import Dataset, DataLoader
 
 from transformers import CLIPProcessor, CLIPModel
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
 # -----------------------
 # Device
@@ -35,6 +35,8 @@ train_df, test_df = train_test_split(
 
 print("Train:", len(train_df))
 print("Test :", len(test_df))
+
+os.makedirs("models", exist_ok=True)
 
 # -----------------------
 # Load CLIP Processor
@@ -68,19 +70,12 @@ class MemeDataset(Dataset):
 
         image = Image.open(image_path).convert("RGB")
 
-        text = row["caption"]
-
         encoding = processor(
-            text=text,
             images=image,
-            return_tensors="pt",
-            padding="max_length",
-            truncation=True
+            return_tensors="pt"
         )
 
         return {
-            "input_ids": encoding["input_ids"].squeeze(0),
-            "attention_mask": encoding["attention_mask"].squeeze(0),
             "pixel_values": encoding["pixel_values"].squeeze(0),
             "label": torch.tensor(row["label"], dtype=torch.long)
         }
@@ -110,37 +105,36 @@ class MemeClassifier(nn.Module):
     def __init__(self):
         super().__init__()
 
-        # Load pretrained CLIP
         self.clip = CLIPModel.from_pretrained(
             "openai/clip-vit-base-patch32"
         )
 
-        # Classification layer
+        for param in self.clip.parameters():
+            param.requires_grad = False
+
         self.classifier = nn.Sequential(
-            nn.Linear(1024, 512),
+            nn.Linear(512, 256),
             nn.ReLU(),
             nn.Dropout(0.3),
-            nn.Linear(512, 2)
+            nn.Linear(256, 2)
         )
 
-    def forward(self, input_ids, attention_mask, pixel_values):
+    def forward(self, pixel_values):
 
-        outputs = self.clip(
-            input_ids=input_ids,
-            attention_mask=attention_mask,
+        image_features = self.clip.get_image_features(
             pixel_values=pixel_values
         )
 
-        image_features = outputs.image_embeds
-        text_features = outputs.text_embeds
+        if isinstance(image_features, dict):
+            image_features = image_features["pooler_output"]
 
-        # Combine image + text features
-        features = torch.cat(
-            (image_features, text_features),
-            dim=1
-        )
+        if hasattr(image_features, "last_hidden_state"):
+            image_features = image_features.last_hidden_state[:, 0, :]
 
-        logits = self.classifier(features)
+        if hasattr(image_features, "pooler_output"):
+            image_features = image_features.pooler_output
+
+        logits = self.classifier(image_features)
 
         return logits
 
@@ -171,18 +165,12 @@ def train_one_epoch():
 
     for batch in train_loader:
 
-        input_ids = batch["input_ids"].to(device)
-        attention_mask = batch["attention_mask"].to(device)
         pixel_values = batch["pixel_values"].to(device)
         labels = batch["label"].to(device)
 
         optimizer.zero_grad()
 
-        outputs = model(
-            input_ids=input_ids,
-            attention_mask=attention_mask,
-            pixel_values=pixel_values
-        )
+        outputs = model(pixel_values=pixel_values)
 
         loss = criterion(outputs, labels)
 
@@ -210,16 +198,10 @@ def evaluate():
 
         for batch in test_loader:
 
-            input_ids = batch["input_ids"].to(device)
-            attention_mask = batch["attention_mask"].to(device)
             pixel_values = batch["pixel_values"].to(device)
             labels = batch["label"].to(device)
 
-            outputs = model(
-                input_ids=input_ids,
-                attention_mask=attention_mask,
-                pixel_values=pixel_values
-            )
+            outputs = model(pixel_values=pixel_values)
 
             preds = torch.argmax(outputs, dim=1)
 
@@ -227,30 +209,41 @@ def evaluate():
             actuals.extend(labels.cpu().numpy())
 
     acc = accuracy_score(actuals, predictions)
-    pre = precision_score(actuals, predictions)
-    rec = recall_score(actuals, predictions)
-    f1 = f1_score(actuals, predictions)
+    pre = precision_score(actuals, predictions, zero_division=0)
+    rec = recall_score(actuals, predictions, zero_division=0)
+    f1 = f1_score(actuals, predictions, zero_division=0)
+    cm = confusion_matrix(actuals, predictions)
 
-    return acc, pre, rec, f1
+    return acc, pre, rec, f1, cm
 
 
 # -----------------------
 # Train Model
 # -----------------------
 
-epochs = 3
+num_epochs = 3
+best_loss = float("inf")
 
-for epoch in range(epochs):
+for epoch in range(num_epochs):
 
     loss = train_one_epoch()
 
-    acc, pre, rec, f1 = evaluate()
+    acc, pre, rec, f1, cm = evaluate()
 
     print("=" * 50)
-    print(f"Epoch {epoch+1}/{epochs}")
+    print(f"Epoch {epoch+1}/{num_epochs}")
     print(f"Loss      : {loss:.4f}")
     print(f"Accuracy  : {acc:.4f}")
     print(f"Precision : {pre:.4f}")
     print(f"Recall    : {rec:.4f}")
     print(f"F1 Score  : {f1:.4f}")
+    print("Confusion Matrix:")
+    print(cm)
     print("=" * 50)
+
+    if loss < best_loss:
+        best_loss = loss
+        torch.save(model.state_dict(), "models/best_model.pth")
+        print("✅ Best model saved as models/best_model.pth")
+
+print("Training complete. Best checkpoint saved at models/best_model.pth")
