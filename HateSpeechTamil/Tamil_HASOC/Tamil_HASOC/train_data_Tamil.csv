@@ -1,0 +1,801 @@
+﻿ids,sentiment,sarcasm,vulgar,abuse,target
+image_tamil_0139.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0227.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0396.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0539.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0833.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0634.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0379.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0984.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0418.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0291.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0315.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0149.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0219.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0232.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0919.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0713.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0325.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0778.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0543.jpg,negative,yes,not vulgar,abusive,individual
+image_tamil_0618.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0978.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0847.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0342.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0512.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0701.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0434.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0696.jpg,negative,yes,not vulgar,non-abusive,gender
+image_tamil_0656.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0835.jpg,positive,yes,not vulgar,non-abusive,others
+image_tamil_0452.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0653.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_1000.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0102.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0147.jpg,negative,no,vulgar,non-abusive,individual
+image_tamil_0524.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0865.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0300.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0996.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0876.png,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0817.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0004.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0547.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0071.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0145.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0010.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0489.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0251.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0259.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0423.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0712.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0096.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0296.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0464.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0642.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0085.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0381.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0144.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0770.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0549.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0584.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0441.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0241.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0762.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0066.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0391.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0178.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0003.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0129.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0425.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0012.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0598.jpg,positive,yes,not vulgar,non-abusive,none
+image_tamil_0493.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0011.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0111.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0802.jpg,neutral,yes,not vulgar,non-abusive,political
+image_tamil_0934.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0637.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0244.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0828.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0505.jpg,neutral,yes,not vulgar,non-abusive,political
+image_tamil_0106.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0708.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0101.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0976.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0046.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0588.jpg,neutral,yes,not vulgar,non-abusive,political
+image_tamil_0546.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0326.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0724.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0196.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0917.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0043.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0520.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0032.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0915.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0253.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0993.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0105.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0133.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0352.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0298.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0486.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0414.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0445.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0863.png,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0378.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0356.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0925.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0609.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0891.jpg,neutral,yes,not vulgar,non-abusive,political
+image_tamil_0739.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0152.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0953.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0880.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0216.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0037.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0553.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0470.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0405.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0952.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0951.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0440.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0509.jpg,positive,no,not vulgar,non-abusive,political
+image_tamil_0518.png,negative,yes,not vulgar,non-abusive,gender
+image_tamil_0961.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0322.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0413.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0318.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0182.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0088.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0392.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0650.jpg,negative,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0118.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0099.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0717.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0475.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0201.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0639.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0807.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0117.jpg,neutral,no,vulgar,non-abusive,others
+image_tamil_0091.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0999.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0316.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0980.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0660.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0556.jpg,positive,yes,not vulgar,non-abusive,gender
+image_tamil_0439.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0428.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0909.png,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0965.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0137.jpg,neutral,no,not vulgar,non-abusive,political
+image_tamil_0667.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0487.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0401.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0143.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0799.jpg,negative,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0583.jpg,neutral,no,not vulgar,non-abusive,political
+image_tamil_0148.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0605.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0971.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0646.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0447.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0024.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0354.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0131.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0202.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0641.png,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0822.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0899.jpg,neutral,no,not vulgar,non-abusive,gender
+image_tamil_0255.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0450.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0818.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0034.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0344.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0042.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0229.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0517.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0690.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0561.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0074.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0858.jpg,neutral,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0386.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0794.jpg,negative,no,vulgar,abusive,individual
+image_tamil_0644.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0970.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0430.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0904.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0551.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0438.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0887.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0950.jpg,positive,yes,not vulgar,non-abusive,gender
+image_tamil_0522.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0297.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0721.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0916.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0215.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0141.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0431.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0791.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0779.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0924.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0108.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0324.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0559.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0388.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0603.jpg,negative,yes,not vulgar,non-abusive,none
+image_tamil_0086.jpg,neutral,yes,not vulgar,non-abusive,none
+image_tamil_0181.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0982.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0928.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0930.png,negative,yes,not vulgar,non-abusive,gender
+image_tamil_0292.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0567.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0958.png,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0625.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0224.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0114.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0443.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0290.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0362.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0571.jpg,negative,yes,not vulgar,abusive,others
+image_tamil_0784.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0868.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0110.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0749.jpg,negative,yes,not vulgar,non-abusive,gender
+image_tamil_0563.png,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0191.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0077.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0387.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0787.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0263.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0426.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0945.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0286.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0608.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0820.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0153.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0798.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0312.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0753.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0535.png,negative,yes,not vulgar,non-abusive,others
+image_tamil_0507.jpg,neutral,yes,not vulgar,non-abusive,gender
+image_tamil_0803.jpg,neutral,yes,not vulgar,non-abusive,political
+image_tamil_0162.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0722.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0062.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0159.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0790.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0844.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0725.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0308.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0075.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0419.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0748.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0619.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0669.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0647.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0007.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0103.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0994.png,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0126.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0017.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0113.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0228.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0728.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0221.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0068.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0555.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0323.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0947.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0346.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0848.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0080.jpg,positive,yes,not vulgar,non-abusive,none
+image_tamil_0027.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0026.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0941.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0242.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0991.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0738.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0104.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0220.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0122.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0931.png,negative,yes,vulgar,abusive,individual
+image_tamil_0040.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0902.jpg,negative,yes,not vulgar,abusive,individual
+image_tamil_0404.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0186.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0199.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0695.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0687.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0752.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0519.jpg,neutral,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0237.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0732.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0164.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0528.png,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0842.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0313.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0775.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0491.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0735.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0173.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0768.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0812.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0903.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0640.png,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0023.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0532.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0720.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0389.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0500.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0651.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0684.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0693.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0235.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0542.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0630.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0731.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0871.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0044.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0754.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0309.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0649.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0893.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0082.jpg,negative,no,not vulgar,abusive,social sub-groups
+image_tamil_0678.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0320.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0029.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0582.png,negative,yes,not vulgar,non-abusive,others
+image_tamil_0888.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0602.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0665.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0502.jpg,neutral,yes,not vulgar,non-abusive,none
+image_tamil_0339.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0483.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0116.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0054.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0001.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0954.jpg,positive,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0610.png,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0260.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0179.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0967.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0747.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0935.jpg,negative,yes,vulgar,non-abusive,gender
+image_tamil_0171.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0361.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0921.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0689.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0766.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0168.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0997.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0706.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0355.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0767.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0857.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0866.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0614.jpg,neutral,yes,not vulgar,non-abusive,political
+image_tamil_0329.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0911.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0454.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0284.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0083.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0550.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0025.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0366.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0458.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0184.jpg,negative,no,not vulgar,abusive,individual
+image_tamil_0084.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0067.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0030.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0095.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0541.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0674.jpg,neutral,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0943.png,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0972.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0962.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0049.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0076.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0623.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0599.jpg,positive,no,not vulgar,non-abusive,none
+image_tamil_0946.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0960.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0488.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0180.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0262.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0894.jpg,negative,yes,not vulgar,abusive,individual
+image_tamil_0826.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0843.png,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0409.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0671.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0303.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0016.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0624.jpg,neutral,yes,not vulgar,non-abusive,political
+image_tamil_0463.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0786.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0769.png,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0266.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0331.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0280.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0804.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0900.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0692.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0119.jpg,positive,yes,not vulgar,non-abusive,others
+image_tamil_0234.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0906.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0031.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0545.jpg,positive,no,not vulgar,non-abusive,none
+image_tamil_0622.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0484.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0233.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0923.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0157.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0889.jpg,neutral,yes,not vulgar,non-abusive,none
+image_tamil_0854.png,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0243.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0840.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0949.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0590.jpg,negative,yes,vulgar,abusive,individual
+image_tamil_0317.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0357.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0981.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0862.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0469.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0758.jpg,negative,yes,vulgar,non-abusive,individual
+image_tamil_0657.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0192.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0636.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0777.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0127.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0638.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0501.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0214.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0992.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0335.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0601.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0977.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0060.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0446.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0989.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0176.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0456.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0940.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0273.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0293.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0058.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0626.jpg,neutral,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0358.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0740.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0882.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0427.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0240.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0050.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0681.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0613.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0757.png,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0415.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0896.jpg,positive,yes,not vulgar,non-abusive,none
+image_tamil_0973.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0468.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0252.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0611.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0128.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0400.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0189.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0203.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0314.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0453.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0422.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0410.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0359.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0771.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0333.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0217.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0499.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0723.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0457.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0123.jpg,negative,yes,vulgar,non-abusive,individual
+image_tamil_0979.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0287.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0589.png,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0311.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0878.jpg,neutral,yes,not vulgar,non-abusive,political
+image_tamil_0183.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0408.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0704.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0846.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0496.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0360.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0197.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0307.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0112.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0956.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0416.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0340.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0776.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0895.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0274.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0672.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0890.png,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0158.jpg,positive,yes,not vulgar,non-abusive,others
+image_tamil_0540.jpg,positive,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0974.png,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0269.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0801.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0821.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0659.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0875.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0194.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0809.jpg,negative,yes,vulgar,abusive,individual
+image_tamil_0462.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0406.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0988.jpg,positive,yes,not vulgar,non-abusive,others
+image_tamil_0200.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0937.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0341.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0492.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0664.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0302.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0038.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0455.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0907.jpg,negative,yes,not vulgar,abusive,individual
+image_tamil_0094.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0281.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0527.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0552.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0727.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0006.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0596.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0782.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0208.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0363.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0774.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0913.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0265.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0124.jpg,negative,no,vulgar,non-abusive,others
+image_tamil_0442.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0795.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0402.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0277.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0098.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0668.png,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0677.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0213.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0632.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0166.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0090.jpg,positive,no,not vulgar,non-abusive,none
+image_tamil_0686.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0682.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0679.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0616.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0435.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0832.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0850.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0332.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0172.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0829.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0756.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0594.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0604.jpg,neutral,yes,vulgar,abusive,none
+image_tamil_0018.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0621.png,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0944.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0150.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0278.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0729.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0064.jpg,positive,no,not vulgar,non-abusive,none
+image_tamil_0272.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0806.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0205.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0525.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0733.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0617.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0998.jpg,negative,yes,not vulgar,non-abusive,gender
+image_tamil_0773.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0685.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0250.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0580.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0019.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0675.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0109.jpg,positive,yes,not vulgar,abusive,individual
+image_tamil_0830.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0676.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0929.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0884.jpg,neutral,yes,not vulgar,non-abusive,none
+image_tamil_0347.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0451.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0597.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0045.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0013.jpg,neutral,yes,vulgar,non-abusive,individual
+image_tamil_0763.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0210.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0079.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0429.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0824.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0612.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0271.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0592.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0521.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0310.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0898.jpg,negative,yes,not vulgar,abusive,individual
+image_tamil_0838.png,negative,yes,not vulgar,abusive,individual
+image_tamil_0666.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0867.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0365.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0254.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0957.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0245.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0261.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0377.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0680.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0652.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0369.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0593.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0987.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0751.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0557.jpg,positive,yes,not vulgar,non-abusive,gender
+image_tamil_0009.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0167.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0218.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0849.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0633.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0836.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0394.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0772.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0537.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0337.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0569.jpg,positive,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0966.jpg,neutral,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0073.jpg,negative,no,not vulgar,non-abusive,none
+image_tamil_0926.png,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0061.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0371.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0289.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0760.png,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0705.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0334.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0057.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0399.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0282.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0683.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0568.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0476.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0330.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0845.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0285.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0190.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0368.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0270.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0411.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0515.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0367.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0052.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0092.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0120.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0566.jpg,negative,yes,not vulgar,abusive,gender
+image_tamil_0533.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0225.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0629.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0702.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0815.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0239.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0226.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0348.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0421.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0819.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0327.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0734.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0135.jpg,negative,no,not vulgar,non-abusive,gender
+image_tamil_0645.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0933.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0805.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0711.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0155.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0578.png,negative,yes,not vulgar,non-abusive,political
+image_tamil_0374.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0856.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0494.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0955.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0879.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0140.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0796.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0177.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0485.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0938.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0942.jpg,neutral,yes,not vulgar,non-abusive,none
+image_tamil_0885.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0089.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0420.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0730.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0121.jpg,neutral,no,not vulgar,abusive,individual
+image_tamil_0231.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0870.png,positive,no,not vulgar,non-abusive,social sub-groups
+image_tamil_0473.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0417.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0328.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0238.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0268.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0969.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0156.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0448.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0383.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0869.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0198.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0175.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0154.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0151.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0600.png,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0529.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0295.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0534.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0338.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0185.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0432.jpg,neutral,no,not vulgar,non-abusive,individual
+image_tamil_0912.jpg,positive,no,not vulgar,non-abusive,none
+image_tamil_0051.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0474.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0072.jpg,positive,no,not vulgar,non-abusive,none
+image_tamil_0558.jpg,positive,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0125.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0459.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0918.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0688.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0056.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0948.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0503.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0654.png,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0694.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0380.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0581.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0187.jpg,negative,no,not vulgar,abusive,individual
+image_tamil_0964.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0373.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0069.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0305.jpg,positive,no,not vulgar,non-abusive,others
+image_tamil_0472.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0375.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0161.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0531.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0304.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0283.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0444.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0631.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0513.jpg,positive,yes,not vulgar,non-abusive,individual
+image_tamil_0267.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0370.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0471.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0714.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0699.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0886.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0914.jpg,neutral,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0709.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0697.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0853.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0436.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0864.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0497.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0506.jpg,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0620.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0299.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0146.jpg,neutral,no,not vulgar,non-abusive,others
+image_tamil_0825.jpg,negative,yes,not vulgar,non-abusive,social sub-groups
+image_tamil_0479.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0136.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0055.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0306.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0585.jpg,negative,no,not vulgar,abusive,individual
+image_tamil_0939.png,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0811.jpg,negative,yes,not vulgar,non-abusive,others
+image_tamil_0710.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0078.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0169.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0350.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0130.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0376.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0256.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0905.jpg,neutral,yes,not vulgar,non-abusive,none
+image_tamil_0437.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0449.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0745.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0188.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0070.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0538.png,neutral,yes,not vulgar,non-abusive,others
+image_tamil_0852.png,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0595.png,positive,no,not vulgar,non-abusive,individual
+image_tamil_0047.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0737.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0020.jpg,positive,no,not vulgar,non-abusive,individual
+image_tamil_0536.jpg,positive,yes,not vulgar,non-abusive,others
+image_tamil_0209.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0781.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0115.jpg,negative,no,not vulgar,non-abusive,others
+image_tamil_0606.jpg,neutral,yes,not vulgar,non-abusive,none
+image_tamil_0039.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0963.jpg,negative,yes,not vulgar,non-abusive,individual
+image_tamil_0008.jpg,neutral,no,not vulgar,non-abusive,none
+image_tamil_0808.jpg,negative,yes,not vulgar,non-abusive,political
+image_tamil_0523.jpg,neutral,yes,not vulgar,non-abusive,individual
+image_tamil_0204.jpg,negative,no,not vulgar,non-abusive,individual
+image_tamil_0673.jpg,negative,yes,vulgar,abusive,gender

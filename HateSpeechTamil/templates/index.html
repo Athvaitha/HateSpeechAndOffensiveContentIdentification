@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimodal Meme Offensive Content Identifier</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0d0f14;
+            --card-bg: rgba(22, 28, 45, 0.4);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --primary: #4f46e5;
+            --primary-glow: rgba(79, 70, 229, 0.4);
+            --safe-color: #10b981;
+            --safe-glow: rgba(16, 185, 129, 0.2);
+            --danger-color: #ef4444;
+            --danger-glow: rgba(239, 68, 68, 0.2);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            background-image: 
+                radial-gradient(at 10% 20%, rgba(79, 70, 229, 0.15) 0px, transparent 50%),
+                radial-gradient(at 90% 80%, rgba(16, 185, 129, 0.08) 0px, transparent 50%);
+            background-attachment: fixed;
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            overflow-x: hidden;
+        }
+
+        header {
+            width: 100%;
+            max-width: 1200px;
+            padding: 2.5rem 1.5rem;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.75rem;
+            font-weight: 800;
+            letter-spacing: -0.025em;
+            background: linear-gradient(135deg, #a78bfa 0%, #818cf8 50%, #34d399 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            color: var(--text-muted);
+            font-weight: 400;
+        }
+
+        main {
+            flex: 1;
+            width: 100%;
+            max-width: 1200px;
+            padding: 0 1.5rem 3rem 1.5rem;
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        @media (min-width: 900px) {
+            main {
+                grid-template-columns: 1.1fr 1.9fr;
+            }
+        }
+
+        .card {
+            background: var(--card-bg);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            padding: 2rem;
+            box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.5);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .upload-section {
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 380px;
+        }
+
+        .drop-zone {
+            width: 100%;
+            border: 2px dashed rgba(255, 255, 255, 0.2);
+            border-radius: 16px;
+            padding: 3rem 1.5rem;
+            cursor: pointer;
+            transition: all 0.25s ease;
+            position: relative;
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .drop-zone:hover, .drop-zone.dragover {
+            border-color: var(--primary);
+            background: rgba(79, 70, 229, 0.05);
+            box-shadow: 0 0 20px var(--primary-glow);
+        }
+
+        .drop-zone input[type="file"] {
+            display: none;
+        }
+
+        .upload-icon {
+            font-size: 3rem;
+            margin-bottom: 1.25rem;
+            display: inline-block;
+            transition: transform 0.2s ease;
+        }
+
+        .drop-zone:hover .upload-icon {
+            transform: translateY(-5px);
+        }
+
+        .drop-text {
+            font-size: 1.1rem;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+        }
+
+        .drop-subtext {
+            font-size: 0.875rem;
+            color: var(--text-muted);
+        }
+
+        .preview-container {
+            width: 100%;
+            margin-top: 1.5rem;
+            border-radius: 12px;
+            overflow: hidden;
+            display: none;
+            position: relative;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .preview-container img {
+            width: 100%;
+            max-height: 300px;
+            object-fit: contain;
+            display: block;
+            background: #000;
+        }
+
+        .btn-predict {
+            width: 100%;
+            background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
+            color: #fff;
+            border: none;
+            padding: 1rem;
+            border-radius: 14px;
+            font-weight: 600;
+            font-size: 1.05rem;
+            cursor: pointer;
+            margin-top: 1.5rem;
+            box-shadow: 0 10px 20px -5px var(--primary-glow);
+            transition: all 0.2s ease;
+            display: none;
+        }
+
+        .btn-predict:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 25px -5px var(--primary-glow);
+            opacity: 0.95;
+        }
+
+        .btn-predict:active {
+            transform: translateY(0);
+        }
+
+        /* Results Panel CSS */
+        .results-section {
+            opacity: 0;
+            transform: translateY(10px);
+            transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            display: none;
+        }
+
+        .results-section.show {
+            display: flex;
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+            height: 100%;
+        }
+
+        @media (min-width: 650px) {
+            .results-grid {
+                grid-template-columns: 1.2fr 1.8fr;
+            }
+        }
+
+        .result-image-wrapper {
+            border-radius: 16px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            background: #000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            max-height: 450px;
+        }
+
+        .result-image-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .result-details {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            gap: 1.5rem;
+        }
+
+        .badge-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: rgba(255, 255, 255, 0.03);
+            padding: 1.25rem;
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .badge {
+            font-size: 1.25rem;
+            font-weight: 700;
+            padding: 0.5rem 1.25rem;
+            border-radius: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            display: inline-block;
+            box-shadow: 0 0 15px currentColor;
+        }
+
+        .badge.safe {
+            background-color: var(--safe-glow);
+            color: var(--safe-color);
+            box-shadow: 0 0 15px var(--safe-glow);
+        }
+
+        .badge.danger {
+            background-color: var(--danger-glow);
+            color: var(--danger-color);
+            box-shadow: 0 0 15px var(--danger-glow);
+        }
+
+        .confidence-label {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin-bottom: 0.35rem;
+        }
+
+        .confidence-val {
+            font-weight: 700;
+            color: var(--text-main);
+        }
+
+        .progress-bar-bg {
+            width: 100%;
+            height: 10px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 0.5rem;
+        }
+
+        .progress-bar-fill {
+            height: 100%;
+            border-radius: 10px;
+            transition: width 1s ease-out;
+            position: relative;
+        }
+
+        .progress-bar-fill::after {
+            content: '';
+            position: absolute;
+            top: 0; right: 0; bottom: 0; left: 0;
+            background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0) 100%);
+            animation: progress-shimmer 1.5s infinite;
+        }
+
+        @keyframes progress-shimmer {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(100%); }
+        }
+
+        .meta-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 1.25rem;
+        }
+
+        .meta-card h3 {
+            font-size: 1.05rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .meta-card p {
+            font-size: 0.95rem;
+            line-height: 1.5;
+            color: var(--text-muted);
+        }
+
+        .meta-card p.tamil-text {
+            font-family: inherit;
+            font-size: 1.1rem;
+            color: #d1d5db;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 0.75rem;
+            border-radius: 10px;
+            border-left: 3px solid var(--primary);
+        }
+
+        /* Loading spinner */
+        .loading-container {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 3rem 1.5rem;
+        }
+
+        .spinner {
+            width: 60px;
+            height: 60px;
+            border: 4px solid rgba(255, 255, 255, 0.05);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s infinite linear;
+            box-shadow: 0 0 15px var(--primary-glow);
+            margin-bottom: 2rem;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .loading-steps {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            width: 100%;
+            max-width: 320px;
+            text-align: left;
+        }
+
+        .step-item {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            transition: all 0.3s ease;
+        }
+
+        .step-item.active {
+            color: var(--text-main);
+            font-weight: 500;
+        }
+
+        .step-item.done {
+            color: var(--safe-color);
+        }
+
+        .step-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .step-item.active .step-dot {
+            background: var(--primary);
+            box-shadow: 0 0 8px var(--primary-glow);
+            transform: scale(1.3);
+        }
+
+        .step-item.done .step-dot {
+            background: var(--safe-color);
+            box-shadow: 0 0 8px var(--safe-glow);
+        }
+
+        /* Multi-Task Results CSS */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        @media (min-width: 500px) {
+            .metrics-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+        .metric-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 1.25rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            gap: 0.5rem;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .metric-card:hover {
+            background: rgba(255, 255, 255, 0.04);
+            border-color: rgba(255, 255, 255, 0.1);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        }
+        .metric-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .metric-title {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+            font-weight: 600;
+        }
+        .metric-value {
+            font-size: 1.05rem;
+            font-weight: 700;
+        }
+        .metric-conf {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            text-align: right;
+            margin-top: 0.25rem;
+        }
+        .chips-section {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            background: rgba(255, 255, 255, 0.01);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            padding: 1.25rem;
+            border-radius: 20px;
+        }
+        .chips-title {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+            font-weight: 600;
+        }
+        .chips-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        .chip {
+            font-size: 0.8rem;
+            font-weight: 700;
+            padding: 0.4rem 1rem;
+            border-radius: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            background: var(--bg);
+            color: var(--color);
+            border: 1px solid var(--border);
+            box-shadow: 0 0 12px var(--glow);
+            display: inline-block;
+        }
+
+        footer {
+            width: 100%;
+            max-width: 1200px;
+            padding: 2rem 1.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Multimodal Hate Speech & Offensive Meme Detector</h1>
+        <p>Analyzing combined features of visual scene layouts and Tamil text overlays using PyTorch & CLIP</p>
+    </header>
+
+    <main>
+        <!-- Left Side: Upload Zone -->
+        <section class="card upload-section">
+            <div class="drop-zone" id="drop-zone">
+                <span class="upload-icon">🖼️</span>
+                <p class="drop-text">Drag & drop your meme image here</p>
+                <p class="drop-subtext">Supports PNG, JPG, JPEG (Max 10MB)</p>
+                <input type="file" id="file-input" accept="image/*">
+            </div>
+
+            <div class="preview-container" id="preview-container">
+                <img id="preview-img" src="" alt="Meme Preview">
+            </div>
+
+            <button class="btn-predict" id="predict-btn">Analyze Meme</button>
+        </section>
+
+        <!-- Right Side: Predictions Output -->
+        <section class="card results-section" id="results-section">
+            <!-- Loading Indicator -->
+            <div class="loading-container" id="loading-container">
+                <div class="spinner"></div>
+                <div class="loading-steps">
+                    <div class="step-item" id="step-ocr">
+                        <div class="step-dot"></div>
+                        <span>Extracting Tamil text (OCR)</span>
+                    </div>
+                    <div class="step-item" id="step-blip">
+                        <div class="step-dot"></div>
+                        <span>Describing visual context (BLIP)</span>
+                    </div>
+                    <div class="step-item" id="step-clip">
+                        <div class="step-dot"></div>
+                        <span>Running multimodal late-fusion</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Analysis Output -->
+            <div class="results-grid" id="results-grid">
+                <div class="result-image-wrapper">
+                    <img id="result-img" src="" alt="Meme Source">
+                </div>
+
+                <div class="result-details">
+                    <!-- Multi-label Classification tags -->
+                    <div class="chips-section">
+                        <span class="chips-title">Active Flags (Multi-label)</span>
+                        <div class="chips-container" id="chips-container">
+                            <!-- Chips dynamically generated here -->
+                        </div>
+                    </div>
+
+                    <!-- Predictions Cards Grid -->
+                    <div class="metrics-grid">
+                        <!-- Sentiment -->
+                        <div class="metric-card">
+                            <div class="metric-header">
+                                <span class="metric-title">Sentiment</span>
+                                <span class="metric-value" id="sentiment-val">-</span>
+                            </div>
+                            <div class="progress-bar-bg">
+                                <div class="progress-bar-fill" id="sentiment-fill"></div>
+                            </div>
+                            <div class="metric-conf" id="sentiment-conf">Confidence: -</div>
+                        </div>
+                        
+                        <!-- Sarcasm -->
+                        <div class="metric-card">
+                            <div class="metric-header">
+                                <span class="metric-title">Sarcasm</span>
+                                <span class="metric-value" id="sarcasm-val">-</span>
+                            </div>
+                            <div class="progress-bar-bg">
+                                <div class="progress-bar-fill" id="sarcasm-fill"></div>
+                            </div>
+                            <div class="metric-conf" id="sarcasm-conf">Confidence: -</div>
+                        </div>
+                        
+                        <!-- Vulgarity -->
+                        <div class="metric-card">
+                            <div class="metric-header">
+                                <span class="metric-title">Vulgarity</span>
+                                <span class="metric-value" id="vulgarity-val">-</span>
+                            </div>
+                            <div class="progress-bar-bg">
+                                <div class="progress-bar-fill" id="vulgarity-fill"></div>
+                            </div>
+                            <div class="metric-conf" id="vulgarity-conf">Confidence: -</div>
+                        </div>
+                        
+                        <!-- Abuse -->
+                        <div class="metric-card">
+                            <div class="metric-header">
+                                <span class="metric-title">Abuse</span>
+                                <span class="metric-value" id="abuse-val">-</span>
+                            </div>
+                            <div class="progress-bar-bg">
+                                <div class="progress-bar-fill" id="abuse-fill"></div>
+                            </div>
+                            <div class="metric-conf" id="abuse-conf">Confidence: -</div>
+                        </div>
+                        
+                        <!-- Target -->
+                        <div class="metric-card" style="grid-column: span 1;">
+                            <div class="metric-header">
+                                <span class="metric-title">Target</span>
+                                <span class="metric-value" id="target-val">-</span>
+                            </div>
+                            <div class="progress-bar-bg">
+                                <div class="progress-bar-fill" id="target-fill"></div>
+                            </div>
+                            <div class="metric-conf" id="target-conf">Confidence: -</div>
+                        </div>
+                    </div>
+
+                    <div class="meta-card">
+                        <h3>💬 Extracted Tamil OCR Text</h3>
+                        <p class="tamil-text" id="ocr-text-content">No overlay text detected.</p>
+                    </div>
+
+                    <div class="meta-card">
+                        <h3>👁️ Visual Scene Description</h3>
+                        <p id="caption-content">No description generated.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Multimodal Meme Research Project. Built using PyTorch, PaddleOCR, BLIP, and OpenAI CLIP ViT-B/32.</p>
+    </footer>
+
+    <script>
+        const dropZone = document.getElementById('drop-zone');
+        const fileInput = document.getElementById('file-input');
+        const previewContainer = document.getElementById('preview-container');
+        const previewImg = document.getElementById('preview-img');
+        const predictBtn = document.getElementById('predict-btn');
+        
+        const resultsSection = document.getElementById('results-section');
+        const loadingContainer = document.getElementById('loading-container');
+        const resultsGrid = document.getElementById('results-grid');
+        
+        const stepOcr = document.getElementById('step-ocr');
+        const stepBlip = document.getElementById('step-blip');
+        const stepClip = document.getElementById('step-clip');
+
+        const resultImg = document.getElementById('result-img');
+        const predictionBadge = document.getElementById('prediction-badge');
+        const confidencePercentage = document.getElementById('confidence-percentage');
+        const progressFill = document.getElementById('progress-fill');
+        const ocrTextContent = document.getElementById('ocr-text-content');
+        const captionContent = document.getElementById('caption-content');
+
+        let selectedFile = null;
+
+        // Drag & Drop
+        dropZone.addEventListener('click', () => fileInput.click());
+        
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropZone.classList.add('dragover');
+        });
+
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.classList.remove('dragover');
+        });
+
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('dragover');
+            if (e.dataTransfer.files.length > 0) {
+                handleFileSelect(e.dataTransfer.files[0]);
+            }
+        });
+
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                handleFileSelect(e.target.files[0]);
+            }
+        });
+
+        function handleFileSelect(file) {
+            if (!file.type.startsWith('image/')) {
+                alert('Please upload an image file (PNG or JPG).');
+                return;
+            }
+            selectedFile = file;
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                previewImg.src = e.target.result;
+                previewContainer.style.display = 'block';
+                predictBtn.style.display = 'block';
+                dropZone.style.display = 'none';
+            };
+            reader.readAsDataURL(file);
+        }
+
+        // Run Prediction API Call
+        predictBtn.addEventListener('click', async () => {
+            if (!selectedFile) return;
+
+            // Reset results states
+            resultsSection.classList.add('show');
+            resultsGrid.style.display = 'none';
+            loadingContainer.style.display = 'flex';
+            
+            // Set dynamic steps loading animations
+            setStepStatus(stepOcr, 'active');
+            setStepStatus(stepBlip, 'pending');
+            setStepStatus(stepClip, 'pending');
+
+            const formData = new FormData();
+            formData.append('file', selectedFile);
+
+            // Animate transition steps simulated for UX (actual steps run sequentially on backend)
+            let ocrTimer = setTimeout(() => {
+                setStepStatus(stepOcr, 'done');
+                setStepStatus(stepBlip, 'active');
+            }, 3500);
+
+            let blipTimer = setTimeout(() => {
+                setStepStatus(stepBlip, 'done');
+                setStepStatus(stepClip, 'active');
+            }, 8000);
+
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                clearTimeout(ocrTimer);
+                clearTimeout(blipTimer);
+
+                const data = await response.json();
+
+                if (data.error) {
+                    alert('Error running inference: ' + data.error);
+                    loadingContainer.style.display = 'none';
+                    resultsSection.classList.remove('show');
+                    return;
+                }
+
+                // Finalize loading steps
+                setStepStatus(stepOcr, 'done');
+                setStepStatus(stepBlip, 'done');
+                setStepStatus(stepClip, 'done');
+
+                // Display Results
+                setTimeout(() => {
+                    loadingContainer.style.display = 'none';
+                    resultsGrid.style.display = 'grid';
+
+                    resultImg.src = data.image_url;
+                    
+                    // 1. Update Sentiment
+                    const sentimentVal = document.getElementById('sentiment-val');
+                    const sentimentFill = document.getElementById('sentiment-fill');
+                    const sentimentConf = document.getElementById('sentiment-conf');
+                    sentimentVal.textContent = data.sentiment;
+                    sentimentConf.textContent = 'Confidence: ' + (data.sentiment_confidence * 100).toFixed(2) + '%';
+                    
+                    let sentColor = '#06b6d4'; // default Neutral
+                    if (data.sentiment === 'Positive') sentColor = '#10b981';
+                    if (data.sentiment === 'Negative') sentColor = '#ef4444';
+                    sentimentFill.style.backgroundColor = sentColor;
+                    sentimentFill.style.boxShadow = `0 0 8px ${sentColor}80`;
+                    sentimentFill.style.width = (data.sentiment_confidence * 100) + '%';
+                    sentimentVal.style.color = sentColor;
+                    
+                    // 2. Update Sarcasm
+                    const sarcasmVal = document.getElementById('sarcasm-val');
+                    const sarcasmFill = document.getElementById('sarcasm-fill');
+                    const sarcasmConf = document.getElementById('sarcasm-conf');
+                    sarcasmVal.textContent = data.sarcasm;
+                    sarcasmConf.textContent = 'Confidence: ' + (data.sarcasm_confidence * 100).toFixed(2) + '%';
+                    
+                    let sarcColor = data.sarcasm === 'Sarcastic' ? '#a855f7' : '#9ca3af';
+                    sarcasmFill.style.backgroundColor = sarcColor;
+                    sarcasmFill.style.boxShadow = `0 0 8px ${sarcColor}80`;
+                    sarcasmFill.style.width = (data.sarcasm_confidence * 100) + '%';
+                    sarcasmVal.style.color = sarcColor;
+                    
+                    // 3. Update Vulgarity
+                    const vulgarityVal = document.getElementById('vulgarity-val');
+                    const vulgarityFill = document.getElementById('vulgarity-fill');
+                    const vulgarityConf = document.getElementById('vulgarity-conf');
+                    vulgarityVal.textContent = data.vulgarity;
+                    vulgarityConf.textContent = 'Confidence: ' + (data.vulgarity_confidence * 100).toFixed(2) + '%';
+                    
+                    let vulgColor = data.vulgarity === 'Vulgar' ? '#f43f5e' : '#14b8a6';
+                    vulgarityFill.style.backgroundColor = vulgColor;
+                    vulgarityFill.style.boxShadow = `0 0 8px ${vulgColor}80`;
+                    vulgarityFill.style.width = (data.vulgarity_confidence * 100) + '%';
+                    vulgarityVal.style.color = vulgColor;
+                    
+                    // 4. Update Abuse
+                    const abuseVal = document.getElementById('abuse-val');
+                    const abuseFill = document.getElementById('abuse-fill');
+                    const abuseConf = document.getElementById('abuse-conf');
+                    abuseVal.textContent = data.abuse;
+                    abuseConf.textContent = 'Confidence: ' + (data.abuse_confidence * 100).toFixed(2) + '%';
+                    
+                    let abuseColor = data.abuse === 'Abusive' ? '#ef4444' : '#10b981';
+                    abuseFill.style.backgroundColor = abuseColor;
+                    abuseFill.style.boxShadow = `0 0 8px ${abuseColor}80`;
+                    abuseFill.style.width = (data.abuse_confidence * 100) + '%';
+                    abuseVal.style.color = abuseColor;
+                    
+                    // 5. Update Target
+                    const targetVal = document.getElementById('target-val');
+                    const targetFill = document.getElementById('target-fill');
+                    const targetConf = document.getElementById('target-conf');
+                    targetVal.textContent = data.target;
+                    targetConf.textContent = 'Confidence: ' + (data.target_confidence * 100).toFixed(2) + '%';
+                    
+                    let targetColor = data.target === 'None' ? '#6b7280' : '#6366f1';
+                    targetFill.style.backgroundColor = targetColor;
+                    targetFill.style.boxShadow = `0 0 8px ${targetColor}80`;
+                    targetFill.style.width = (data.target_confidence * 100) + '%';
+                    targetVal.style.color = targetColor;
+                    
+                    // 6. Update Chips
+                    const chipsContainer = document.getElementById('chips-container');
+                    chipsContainer.innerHTML = '';
+                    if (data.multi_label && data.multi_label.length > 0) {
+                        data.multi_label.forEach(label => {
+                            const chip = document.createElement('span');
+                            chip.className = 'chip';
+                            chip.textContent = label;
+                            
+                            let bg, color, border, glow;
+                            if (label === 'Abuse') {
+                                bg = 'rgba(239, 68, 68, 0.15)';
+                                color = '#f87171';
+                                border = 'rgba(239, 68, 68, 0.3)';
+                                glow = 'rgba(239, 68, 68, 0.4)';
+                            } else if (label === 'Sarcasm') {
+                                bg = 'rgba(168, 85, 247, 0.15)';
+                                color = '#c084fc';
+                                border = 'rgba(168, 85, 247, 0.3)';
+                                glow = 'rgba(168, 85, 247, 0.4)';
+                            } else if (label === 'Vulgarity') {
+                                bg = 'rgba(244, 63, 94, 0.15)';
+                                color = '#fb7185';
+                                border = 'rgba(244, 63, 94, 0.3)';
+                                glow = 'rgba(244, 63, 94, 0.4)';
+                            } else {
+                                bg = 'rgba(99, 102, 241, 0.15)';
+                                color = '#818cf8';
+                                border = 'rgba(99, 102, 241, 0.3)';
+                                glow = 'rgba(99, 102, 241, 0.4)';
+                            }
+                            
+                            chip.style.setProperty('--bg', bg);
+                            chip.style.setProperty('--color', color);
+                            chip.style.setProperty('--border', border);
+                            chip.style.setProperty('--glow', glow);
+                            chipsContainer.appendChild(chip);
+                        });
+                    } else {
+                        const chip = document.createElement('span');
+                        chip.className = 'chip';
+                        chip.textContent = 'None / Clean';
+                        chip.style.setProperty('--bg', 'rgba(16, 185, 129, 0.15)');
+                        chip.style.setProperty('--color', '#34d399');
+                        chip.style.setProperty('--border', 'rgba(16, 185, 129, 0.3)');
+                        chip.style.setProperty('--glow', 'rgba(16, 185, 129, 0.4)');
+                        chipsContainer.appendChild(chip);
+                    }
+                    
+                    ocrTextContent.textContent = !data.ocr_text || data.ocr_text.startsWith("Skipped") ? "No Tamil characters detected on the meme image overlay." : data.ocr_text;
+                    captionContent.textContent = data.caption || "No visual scene description generated.";
+                }, 800);
+
+            } catch (error) {
+                console.error(error);
+                alert('Connection error occurred.');
+                loadingContainer.style.display = 'none';
+                resultsSection.classList.remove('show');
+            }
+        });
+
+        function setStepStatus(element, status) {
+            element.classList.remove('active', 'done');
+            if (status === 'active') {
+                element.classList.add('active');
+            } else if (status === 'done') {
+                element.classList.add('done');
+            }
+        }
+    </script>
+</body>
+</html>
