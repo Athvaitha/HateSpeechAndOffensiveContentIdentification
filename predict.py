@@ -72,6 +72,31 @@ class CLIPClassifier(nn.Module):
 
 metadata_df = pd.read_csv("dataset/final_dataset.csv")
 
+ocr_lookup = {}
+if os.path.exists("dataset/ocr_text.csv"):
+    ocr_df = pd.read_csv("dataset/ocr_text.csv")
+    ocr_lookup = {
+        str(row["ids"]): str(row["ocr_text"]) if "ocr_text" in row else ""
+        for _, row in ocr_df.iterrows()
+    }
+
+
+def _safe_text(value):
+    if value is None:
+        return ""
+
+    if isinstance(value, str):
+        value = value.strip()
+        if not value or value.lower() in {"nan", "none", "null"}:
+            return ""
+        return value
+
+    if pd.isna(value):
+        return ""
+
+    return str(value).strip()
+
+
 # -----------------------
 # Load Trained Model
 # -----------------------
@@ -113,12 +138,13 @@ def get_meme_meaning_and_reason(image_name, label):
         )
 
     row = row.iloc[0]
-    caption = str(row["caption"]).strip()
+    caption = _safe_text(row.get("caption", ""))
+    ocr_text = _safe_text(row.get("ocr_text", ocr_lookup.get(image_name, "")))
 
-    sarcasm = str(row["sarcasm"]).strip().lower() == "yes"
-    vulgar = str(row["vulgar"]).strip().lower() == "vulgar"
-    abuse = str(row["abuse"]).strip().lower() == "abusive"
-    target = str(row["target"]).strip().lower() != "none"
+    sarcasm = _safe_text(row.get("sarcasm", "")).lower() == "yes"
+    vulgar = _safe_text(row.get("vulgar", "")).lower() == "vulgar"
+    abuse = _safe_text(row.get("abuse", "")).lower() == "abusive"
+    target = _safe_text(row.get("target", "")).lower() != "none"
 
     cues = []
     if sarcasm:
@@ -130,30 +156,43 @@ def get_meme_meaning_and_reason(image_name, label):
     if target:
         cues.append("targeted")
 
+    evidence = []
+    if caption:
+        evidence.append(f"BLIP caption: {caption}")
+    if ocr_text:
+        evidence.append(f"OCR text: {ocr_text[:160]}")
+    else:
+        evidence.append("OCR text: not available for this example")
+
+    evidence_text = " | ".join(evidence)
+
     if label == 1:
         if cues:
             reason = (
-                f"The model classifies this as Hate Speech / Offensive because the dataset metadata marks it with "
-                f"{', '.join(cues)} cues, which are consistent with offensive meme content."
+                f"The model classifies this as Hate Speech / Offensive because the BLIP caption and OCR evidence "
+                f"support a harmful interpretation: {evidence_text}. The metadata also marks it as "
+                f"{', '.join(cues)}, which is consistent with offensive meme content."
             )
         else:
             reason = (
                 "The model classifies this as Hate Speech / Offensive because the learned pattern for this image "
-                "matches the hateful class in the training data."
+                "matches the hateful class in the training data, even though the OCR text and caption do not contain "
+                "strong explicit abuse."
             )
     else:
-        if cues:
+        if sarcasm or cues:
             reason = (
-                f"The model classifies this as Non Hate Speech because the meme text and metadata are mostly neutral, "
-                f"and the harmful cues are not strong enough to trigger the hate/offensive class."
+                f"The model classifies this as Non Hate Speech because the meme is marked as sarcastic, but the BLIP "
+                f"caption and OCR evidence remain mostly neutral: {evidence_text}. The metadata does not show enough "
+                f"abusive or targeted signals to escalate it into the hate/offensive class."
             )
         else:
             reason = (
                 "The model classifies this as Non Hate Speech because the meme meaning appears neutral or harmless, "
-                "and its metadata does not show strong abusive or targeted signals."
+                "and the BLIP caption plus OCR grounding do not show strong abusive or targeted content."
             )
 
-    return caption, reason
+    return caption or "Meaning unavailable", reason
 
 
 def predict(image_path):
