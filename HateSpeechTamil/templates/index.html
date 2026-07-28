@@ -543,10 +543,6 @@
             <div class="loading-container" id="loading-container">
                 <div class="spinner"></div>
                 <div class="loading-steps">
-                    <div class="step-item" id="step-ocr">
-                        <div class="step-dot"></div>
-                        <span>Extracting Tamil text (OCR)</span>
-                    </div>
                     <div class="step-item" id="step-blip">
                         <div class="step-dot"></div>
                         <span>Describing visual context (BLIP)</span>
@@ -637,11 +633,6 @@
                     </div>
 
                     <div class="meta-card">
-                        <h3>💬 Extracted Tamil OCR Text</h3>
-                        <p class="tamil-text" id="ocr-text-content">No overlay text detected.</p>
-                    </div>
-
-                    <div class="meta-card">
                         <h3>👁️ Visual Scene Description</h3>
                         <p id="caption-content">No description generated.</p>
                     </div>
@@ -665,7 +656,6 @@
         const loadingContainer = document.getElementById('loading-container');
         const resultsGrid = document.getElementById('results-grid');
         
-        const stepOcr = document.getElementById('step-ocr');
         const stepBlip = document.getElementById('step-blip');
         const stepClip = document.getElementById('step-clip');
 
@@ -673,7 +663,6 @@
         const predictionBadge = document.getElementById('prediction-badge');
         const confidencePercentage = document.getElementById('confidence-percentage');
         const progressFill = document.getElementById('progress-fill');
-        const ocrTextContent = document.getElementById('ocr-text-content');
         const captionContent = document.getElementById('caption-content');
 
         let selectedFile = null;
@@ -730,23 +719,17 @@
             loadingContainer.style.display = 'flex';
             
             // Set dynamic steps loading animations
-            setStepStatus(stepOcr, 'active');
-            setStepStatus(stepBlip, 'pending');
+            setStepStatus(stepBlip, 'active');
             setStepStatus(stepClip, 'pending');
 
             const formData = new FormData();
             formData.append('file', selectedFile);
 
             // Animate transition steps simulated for UX (actual steps run sequentially on backend)
-            let ocrTimer = setTimeout(() => {
-                setStepStatus(stepOcr, 'done');
-                setStepStatus(stepBlip, 'active');
-            }, 3500);
-
             let blipTimer = setTimeout(() => {
                 setStepStatus(stepBlip, 'done');
                 setStepStatus(stepClip, 'active');
-            }, 8000);
+            }, 4000);
 
             try {
                 const response = await fetch('/predict', {
@@ -754,7 +737,6 @@
                     body: formData
                 });
 
-                clearTimeout(ocrTimer);
                 clearTimeout(blipTimer);
 
                 const data = await response.json();
@@ -767,7 +749,6 @@
                 }
 
                 // Finalize loading steps
-                setStepStatus(stepOcr, 'done');
                 setStepStatus(stepBlip, 'done');
                 setStepStatus(stepClip, 'done');
 
@@ -894,7 +875,6 @@
                         chipsContainer.appendChild(chip);
                     }
                     
-                    ocrTextContent.textContent = !data.ocr_text || data.ocr_text.startsWith("Skipped") ? "No Tamil characters detected on the meme image overlay." : data.ocr_text;
                     captionContent.textContent = data.caption || "No visual scene description generated.";
                 }, 800);
 

@@ -48,7 +48,7 @@ def train_model():
     print(f"Using device: {device}")
     
     # Hyperparameters
-    epochs = 8
+    epochs = 15
     batch_size = 8
     lr = 2e-5
     checkpoint_path = "checkpoint.pt"
@@ -246,11 +246,7 @@ def train_model():
         torch.save(checkpoint, checkpoint_path)
         print(f"--> Saved training checkpoint to '{checkpoint_path}' for Epoch {epoch}")
             
-    # Clean up checkpoint on complete success
-    if os.path.exists(checkpoint_path):
-        os.remove(checkpoint_path)
-        print(f"Removed temporary checkpoint file '{checkpoint_path}' since training is complete.")
-        
+    # Keep checkpoint on complete success so training doesn't start from scratch next time
     print("\nTraining complete!")
 
 if __name__ == "__main__":
